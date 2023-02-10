@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'MatchaIcons';
-	src:  url('fonts/matcha-icons.eot?7ggqex');
-	src:  url('fonts/matcha-icons.eot?7ggqex#iefix') format('embedded-opentype'),
-	  url('fonts/matcha-icons.ttf?7ggqex') format('truetype'),
-	  url('fonts/matcha-icons.woff?7ggqex') format('woff'),
-	  url('fonts/matcha-icons.svg?7ggqex#matcha-icons') format('svg');
+	src:  url('https://unpkg.com/matcha-icons@latest/fonts/matcha-icons.eot?7ggqex');
+	src:  url('https://unpkg.com/matcha-icons@latest/fonts/matcha-icons.eot?7ggqex#iefix') format('embedded-opentype'),
+	  url('https://unpkg.com/matcha-icons@latest/fonts/matcha-icons.ttf?7ggqex') format('truetype'),
+	  url('https://unpkg.com/matcha-icons@latest/fonts/matcha-icons.woff?7ggqex') format('woff'),
+	  url('https://unpkg.com/matcha-icons@latest/fonts/matcha-icons.svg?7ggqex#matcha-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 	font-display: block;
