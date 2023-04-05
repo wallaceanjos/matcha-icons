@@ -86,1062 +86,1062 @@
       "prevSize": 32
     },
     {
-      "order": 246,
+      "order": 19,
       "name": "church-out",
       "prevSize": 32
     },
     {
-      "order": 247,
+      "order": 20,
       "name": "download",
       "prevSize": 32
     },
     {
-      "order": 248,
+      "order": 21,
       "name": "downloads-out",
       "prevSize": 32
     },
     {
-      "order": 249,
+      "order": 22,
       "name": "groups",
       "prevSize": 32
     },
     {
-      "order": 250,
+      "order": 23,
       "name": "groups-out",
       "prevSize": 32
     },
     {
-      "order": 251,
+      "order": 24,
       "name": "live",
       "prevSize": 32
     },
     {
-      "order": 19,
+      "order": 25,
       "name": "live-out",
       "prevSize": 32
     },
     {
-      "order": 20,
+      "order": 26,
       "name": "star",
       "prevSize": 32
     },
     {
-      "order": 21,
+      "order": 27,
       "name": "star-out",
       "prevSize": 32
     },
     {
-      "order": 22,
+      "order": 28,
       "name": "news",
       "prevSize": 32
     },
     {
-      "order": 23,
+      "order": 29,
       "name": "news-out",
       "prevSize": 32
     },
     {
-      "order": 24,
+      "order": 30,
       "name": "edit",
       "prevSize": 32
     },
     {
-      "order": 25,
+      "order": 31,
       "name": "edit-out",
       "prevSize": 32
     },
     {
-      "order": 26,
+      "order": 32,
       "name": "web",
       "prevSize": 32
     },
     {
-      "order": 27,
+      "order": 33,
       "name": "web-out",
       "prevSize": 32
     },
     {
-      "order": 28,
+      "order": 34,
       "name": "prayer",
       "prevSize": 32
     },
     {
-      "order": 29,
+      "order": 35,
       "name": "prayer-out",
       "prevSize": 32
     },
     {
-      "order": 30,
+      "order": 36,
       "name": "radio",
       "prevSize": 32
     },
     {
-      "order": 31,
+      "order": 37,
       "name": "radio-out",
       "prevSize": 32
     },
     {
-      "order": 32,
+      "order": 38,
       "name": "id-card",
       "prevSize": 32
     },
     {
-      "order": 33,
+      "order": 39,
       "name": "id-card-out",
       "prevSize": 32
     },
     {
-      "order": 34,
+      "order": 40,
       "name": "cell",
       "prevSize": 32
     },
     {
-      "order": 35,
+      "order": 41,
       "name": "cell-out",
       "prevSize": 32
     },
     {
-      "order": 252,
+      "order": 42,
       "name": "business",
       "prevSize": 32
     },
     {
-      "order": 253,
+      "order": 43,
       "name": "business-out",
       "prevSize": 32
     },
     {
-      "order": 254,
+      "order": 44,
       "name": "contact",
       "prevSize": 32
     },
     {
-      "order": 255,
+      "order": 45,
       "name": "contact-out",
       "prevSize": 32
     },
     {
-      "order": 256,
+      "order": 46,
       "name": "store",
       "prevSize": 32
     },
     {
-      "order": 257,
+      "order": 47,
       "name": "store-out",
       "prevSize": 32
     },
     {
-      "order": 36,
+      "order": 48,
       "name": "mykids",
       "prevSize": 32
     },
     {
-      "order": 37,
+      "order": 49,
       "name": "mykids-out",
       "prevSize": 32
     },
     {
-      "order": 38,
+      "order": 50,
       "name": "profile",
       "prevSize": 32
     },
     {
-      "order": 39,
+      "order": 51,
       "name": "profile-out",
       "prevSize": 32
     },
     {
-      "order": 40,
+      "order": 52,
       "name": "bright",
       "prevSize": 32
     },
     {
-      "order": 41,
+      "order": 53,
       "name": "bright-out",
       "prevSize": 32
     },
     {
-      "order": 42,
+      "order": 54,
       "name": "case",
       "prevSize": 32
     },
     {
-      "order": 43,
+      "order": 55,
       "name": "case-out",
       "prevSize": 32
     },
     {
-      "order": 44,
+      "order": 56,
       "name": "cake",
       "prevSize": 32
     },
     {
-      "order": 45,
+      "order": 57,
       "name": "link",
       "prevSize": 32
     },
     {
-      "order": 46,
+      "order": 58,
       "name": "list",
       "prevSize": 32
     },
     {
-      "order": 47,
+      "order": 59,
       "name": "grid",
       "prevSize": 32
     },
     {
-      "order": 48,
+      "order": 60,
       "name": "grid-out",
       "prevSize": 32
     },
     {
-      "order": 49,
+      "order": 61,
       "name": "contrast",
       "prevSize": 32
     },
     {
-      "order": 50,
+      "order": 62,
       "name": "check-in",
       "prevSize": 32
     },
     {
-      "order": 51,
+      "order": 63,
       "name": "check-out",
       "prevSize": 32
     },
     {
-      "order": 52,
+      "order": 64,
       "name": "counseling",
       "prevSize": 32
     },
     {
-      "order": 258,
+      "order": 65,
       "name": "counseling-out",
       "prevSize": 32
     },
     {
-      "order": 259,
+      "order": 66,
       "name": "notes",
       "prevSize": 32
     },
     {
-      "order": 260,
+      "order": 67,
       "name": "notes-out",
       "prevSize": 32
     },
     {
-      "order": 261,
+      "order": 68,
       "name": "print",
       "prevSize": 32
     },
     {
-      "order": 262,
+      "order": 69,
       "name": "print-out",
       "prevSize": 32
     },
     {
-      "order": 263,
+      "order": 70,
       "name": "smile",
       "prevSize": 32
     },
     {
-      "order": 53,
+      "order": 71,
       "name": "notification",
       "prevSize": 32
     },
     {
-      "order": 54,
+      "order": 72,
       "name": "light-mode",
       "prevSize": 32
     },
     {
-      "order": 55,
+      "order": 73,
       "name": "dark-mode",
       "prevSize": 32
     },
     {
-      "order": 56,
+      "order": 74,
       "name": "dark-mode-2",
       "prevSize": 32
     },
     {
-      "order": 57,
+      "order": 75,
       "name": "category",
       "prevSize": 32
     },
     {
-      "order": 58,
+      "order": 76,
       "name": "bank",
       "prevSize": 32
     },
     {
-      "order": 59,
+      "order": 77,
       "name": "visitor",
       "prevSize": 32
     },
     {
-      "order": 60,
+      "order": 78,
       "name": "participant",
       "prevSize": 32
     },
     {
-      "order": 61,
+      "order": 79,
       "name": "arrow-left",
       "prevSize": 32
     },
     {
-      "order": 62,
+      "order": 80,
       "name": "arrow-up",
       "prevSize": 32
     },
     {
-      "order": 63,
+      "order": 81,
       "name": "arrow-down",
       "prevSize": 32
     },
     {
-      "order": 64,
+      "order": 82,
       "name": "arrow-right",
       "prevSize": 32
     },
     {
-      "order": 65,
+      "order": 83,
       "name": "chevron-left",
       "prevSize": 32
     },
     {
-      "order": 66,
+      "order": 84,
       "name": "chevron-right",
       "prevSize": 32
     },
     {
-      "order": 67,
+      "order": 85,
       "name": "chevron-down",
       "prevSize": 32
     },
     {
-      "order": 68,
+      "order": 86,
       "name": "chevron-up",
       "prevSize": 32
     },
     {
-      "order": 69,
+      "order": 87,
       "name": "reading",
       "prevSize": 32
     },
     {
-      "order": 264,
+      "order": 88,
       "name": "blocked",
       "prevSize": 32
     },
     {
-      "order": 265,
+      "order": 89,
       "name": "reports",
       "prevSize": 32
     },
     {
-      "order": 266,
+      "order": 90,
       "name": "dashboard",
       "prevSize": 32
     },
     {
-      "order": 267,
+      "order": 91,
       "name": "graph",
       "prevSize": 32
     },
     {
-      "order": 268,
+      "order": 92,
       "name": "education",
       "prevSize": 32
     },
     {
-      "order": 269,
+      "order": 93,
       "name": "phone",
       "prevSize": 32
     },
     {
-      "order": 70,
+      "order": 94,
       "name": "contact-us",
       "prevSize": 32
     },
     {
-      "order": 71,
+      "order": 95,
       "name": "header-panel",
       "prevSize": 32
     },
     {
-      "order": 72,
+      "order": 96,
       "name": "audio",
       "prevSize": 32
     },
     {
-      "order": 73,
+      "order": 97,
       "name": "audio-out",
       "prevSize": 32
     },
     {
-      "order": 74,
+      "order": 98,
       "name": "foward",
       "prevSize": 32
     },
     {
-      "order": 75,
+      "order": 99,
       "name": "foward-out",
       "prevSize": 32
     },
     {
-      "order": 76,
+      "order": 100,
       "name": "next",
       "prevSize": 32
     },
     {
-      "order": 77,
+      "order": 101,
       "name": "next1",
       "prevSize": 32
     },
     {
-      "order": 78,
+      "order": 102,
       "name": "pause",
       "prevSize": 32
     },
     {
-      "order": 79,
+      "order": 103,
       "name": "pause-out",
       "prevSize": 32
     },
     {
-      "order": 80,
+      "order": 104,
       "name": "play",
       "prevSize": 32
     },
     {
-      "order": 81,
+      "order": 105,
       "name": "play-out",
       "prevSize": 32
     },
     {
-      "order": 82,
+      "order": 106,
       "name": "microphone",
       "prevSize": 32
     },
     {
-      "order": 83,
+      "order": 107,
       "name": "microphone-out",
       "prevSize": 32
     },
     {
-      "order": 84,
+      "order": 108,
       "name": "previous",
       "prevSize": 32
     },
     {
-      "order": 85,
+      "order": 109,
       "name": "previous-out",
       "prevSize": 32
     },
     {
-      "order": 86,
+      "order": 110,
       "name": "rewind",
       "prevSize": 32
     },
     {
-      "order": 270,
+      "order": 111,
       "name": "rewind-out",
       "prevSize": 32
     },
     {
-      "order": 271,
+      "order": 112,
       "name": "songbook",
       "prevSize": 32
     },
     {
-      "order": 272,
+      "order": 113,
       "name": "songbook-out",
       "prevSize": 32
     },
     {
-      "order": 273,
+      "order": 114,
       "name": "video",
       "prevSize": 32
     },
     {
-      "order": 274,
+      "order": 115,
       "name": "video-out",
       "prevSize": 32
     },
     {
-      "order": 275,
+      "order": 116,
       "name": "upload",
       "prevSize": 32
     },
     {
-      "order": 87,
+      "order": 117,
       "name": "upload-out",
       "prevSize": 32
     },
     {
-      "order": 88,
+      "order": 118,
       "name": "gallery",
       "prevSize": 32
     },
     {
-      "order": 89,
+      "order": 119,
       "name": "image-out",
       "prevSize": 32
     },
     {
-      "order": 90,
+      "order": 120,
       "name": "bonus",
       "prevSize": 32
     },
     {
-      "order": 91,
+      "order": 121,
       "name": "bonus-out",
       "prevSize": 32
     },
     {
-      "order": 92,
+      "order": 122,
       "name": "save",
       "prevSize": 32
     },
     {
-      "order": 93,
+      "order": 123,
       "name": "save-out",
       "prevSize": 32
     },
     {
-      "order": 94,
+      "order": 124,
       "name": "lightbulb",
       "prevSize": 32
     },
     {
-      "order": 95,
+      "order": 125,
       "name": "lightbulb-out",
       "prevSize": 32
     },
     {
-      "order": 96,
+      "order": 126,
       "name": "laptop",
       "prevSize": 32
     },
     {
-      "order": 97,
+      "order": 127,
       "name": "phone1",
       "prevSize": 32
     },
     {
-      "order": 98,
+      "order": 128,
       "name": "monitor",
       "prevSize": 32
     },
     {
-      "order": 99,
+      "order": 129,
       "name": "monitor-out",
       "prevSize": 32
     },
     {
-      "order": 100,
+      "order": 130,
       "name": "testimony",
       "prevSize": 32
     },
     {
-      "order": 101,
+      "order": 131,
       "name": "testimony-out",
       "prevSize": 32
     },
     {
-      "order": 102,
+      "order": 132,
       "name": "pdf",
       "prevSize": 32
     },
     {
-      "order": 103,
+      "order": 133,
       "name": "podtail",
       "prevSize": 32
     },
     {
-      "order": 276,
+      "order": 134,
       "name": "net",
       "prevSize": 32
     },
     {
-      "order": 277,
+      "order": 135,
       "name": "contact1",
       "prevSize": 32
     },
     {
-      "order": 278,
+      "order": 136,
       "name": "copy-content",
       "prevSize": 32
     },
     {
-      "order": 279,
+      "order": 137,
       "name": "about",
       "prevSize": 32
     },
     {
-      "order": 280,
+      "order": 138,
       "name": "about-out",
       "prevSize": 32
     },
     {
-      "order": 281,
+      "order": 139,
       "name": "copy",
       "prevSize": 32
     },
     {
-      "order": 104,
+      "order": 140,
       "name": "copy-out",
       "prevSize": 32
     },
     {
-      "order": 105,
+      "order": 141,
       "name": "copy-folder",
       "prevSize": 32
     },
     {
-      "order": 106,
+      "order": 142,
       "name": "copy-folder-out",
       "prevSize": 32
     },
     {
-      "order": 107,
+      "order": 143,
       "name": "new-note",
       "prevSize": 32
     },
     {
-      "order": 108,
+      "order": 144,
       "name": "new-note-out",
       "prevSize": 32
     },
     {
-      "order": 109,
+      "order": 145,
       "name": "folder-closed",
       "prevSize": 32
     },
     {
-      "order": 110,
+      "order": 146,
       "name": "folder-opened",
       "prevSize": 32
     },
     {
-      "order": 111,
+      "order": 147,
       "name": "note",
       "prevSize": 32
     },
     {
-      "order": 112,
+      "order": 148,
       "name": "note-out",
       "prevSize": 32
     },
     {
-      "order": 113,
+      "order": 149,
       "name": "copy-out1",
       "prevSize": 32
     },
     {
-      "order": 114,
+      "order": 150,
       "name": "new-note-out1",
       "prevSize": 32
     },
     {
-      "order": 115,
+      "order": 151,
       "name": "text",
       "prevSize": 32
     },
     {
-      "order": 116,
+      "order": 152,
       "name": "text-align-left",
       "prevSize": 32
     },
     {
-      "order": 117,
+      "order": 153,
       "name": "text-bullet-list",
       "prevSize": 32
     },
     {
-      "order": 118,
+      "order": 154,
       "name": "text-align-center",
       "prevSize": 32
     },
     {
-      "order": 119,
+      "order": 155,
       "name": "text-indent-back",
       "prevSize": 32
     },
     {
-      "order": 120,
+      "order": 156,
       "name": "text-align-justify",
       "prevSize": 32
     },
     {
-      "order": 282,
+      "order": 157,
       "name": "text-indent-foward",
       "prevSize": 32
     },
     {
-      "order": 283,
+      "order": 158,
       "name": "text-align-right",
       "prevSize": 32
     },
     {
-      "order": 284,
+      "order": 159,
       "name": "font-bold",
       "prevSize": 32
     },
     {
-      "order": 285,
+      "order": 160,
       "name": "font-underline",
       "prevSize": 32
     },
     {
-      "order": 286,
+      "order": 161,
       "name": "font-italic",
       "prevSize": 32
     },
     {
-      "order": 121,
+      "order": 162,
       "name": "delete",
       "prevSize": 32
     },
     {
-      "order": 122,
+      "order": 163,
       "name": "delete-out",
       "prevSize": 32
     },
     {
-      "order": 123,
+      "order": 164,
       "name": "filter",
       "prevSize": 32
     },
     {
-      "order": 124,
+      "order": 165,
       "name": "filter-out",
       "prevSize": 32
     },
     {
-      "order": 125,
+      "order": 166,
       "name": "filter-bars",
       "prevSize": 32
     },
     {
-      "order": 126,
+      "order": 167,
       "name": "fullscreen",
       "prevSize": 32
     },
     {
-      "order": 127,
+      "order": 168,
       "name": "fullscreen-out",
       "prevSize": 32
     },
     {
-      "order": 128,
+      "order": 169,
       "name": "fullscreen-exit",
       "prevSize": 32
     },
     {
-      "order": 129,
+      "order": 170,
       "name": "fullscreen-exit-out",
       "prevSize": 32
     },
     {
-      "order": 130,
+      "order": 171,
       "name": "settings",
       "prevSize": 32
     },
     {
-      "order": 131,
+      "order": 172,
       "name": "settings-out",
       "prevSize": 32
     },
     {
-      "order": 132,
+      "order": 173,
       "name": "share",
       "prevSize": 32
     },
     {
-      "order": 133,
+      "order": 174,
       "name": "share-out",
       "prevSize": 32
     },
     {
-      "order": 134,
+      "order": 175,
       "name": "toggle-off",
       "prevSize": 32
     },
     {
-      "order": 135,
+      "order": 176,
       "name": "toggle-on",
       "prevSize": 32
     },
     {
-      "order": 136,
+      "order": 177,
       "name": "toggle-off-out",
       "prevSize": 32
     },
     {
-      "order": 137,
+      "order": 178,
       "name": "toggle-on-out",
       "prevSize": 32
     },
     {
-      "order": 288,
+      "order": 179,
       "name": "visibility-on",
       "prevSize": 32
     },
     {
-      "order": 289,
+      "order": 180,
       "name": "visibility-off",
       "prevSize": 32
     },
     {
-      "order": 290,
+      "order": 181,
       "name": "visibility-on-out",
       "prevSize": 32
     },
     {
-      "order": 291,
+      "order": 182,
       "name": "visibility-off-out",
       "prevSize": 32
     },
     {
-      "order": 292,
+      "order": 183,
       "name": "logout",
       "prevSize": 32
     },
     {
-      "order": 293,
+      "order": 184,
       "name": "logout-out",
       "prevSize": 32
     },
     {
-      "order": 138,
+      "order": 185,
       "name": "search",
       "prevSize": 32
     },
     {
-      "order": 139,
+      "order": 186,
       "name": "search-out",
       "prevSize": 32
     },
     {
-      "order": 140,
+      "order": 187,
       "name": "notification1",
       "prevSize": 32
     },
     {
-      "order": 141,
+      "order": 188,
       "name": "notification-out",
       "prevSize": 32
     },
     {
-      "order": 142,
+      "order": 189,
       "name": "password",
       "prevSize": 32
     },
     {
-      "order": 143,
+      "order": 190,
       "name": "password-out",
       "prevSize": 32
     },
     {
-      "order": 144,
+      "order": 191,
       "name": "calendar",
       "prevSize": 32
     },
     {
-      "order": 145,
+      "order": 192,
       "name": "calendar-out",
       "prevSize": 32
     },
     {
-      "order": 146,
+      "order": 193,
       "name": "menu",
       "prevSize": 32
     },
     {
-      "order": 147,
+      "order": 194,
       "name": "menu-out",
       "prevSize": 32
     },
     {
-      "order": 148,
+      "order": 195,
       "name": "info",
       "prevSize": 32
     },
     {
-      "order": 149,
+      "order": 196,
       "name": "info-out",
       "prevSize": 32
     },
     {
-      "order": 150,
+      "order": 197,
       "name": "leadership",
       "prevSize": 32
     },
     {
-      "order": 151,
+      "order": 198,
       "name": "leadership-out",
       "prevSize": 32
     },
     {
-      "order": 152,
+      "order": 199,
       "name": "attachment",
       "prevSize": 32
     },
     {
-      "order": 153,
+      "order": 200,
       "name": "attachment-out",
       "prevSize": 32
     },
     {
-      "order": 154,
+      "order": 201,
       "name": "send",
       "prevSize": 32
     },
     {
-      "order": 294,
+      "order": 202,
       "name": "action_sign_error",
       "prevSize": 32
     },
     {
-      "order": 295,
+      "order": 203,
       "name": "action_close",
       "prevSize": 32
     },
     {
-      "order": 296,
+      "order": 204,
       "name": "action_sign_success",
       "prevSize": 32
     },
     {
-      "order": 297,
+      "order": 205,
       "name": "action_done",
       "prevSize": 32
     },
     {
-      "order": 298,
+      "order": 206,
       "name": "action_sign_warning",
       "prevSize": 32
     },
     {
-      "order": 299,
+      "order": 207,
       "name": "action_sign_warning-out",
       "prevSize": 32
     },
     {
-      "order": 155,
+      "order": 208,
       "name": "feedback",
       "prevSize": 32
     },
     {
-      "order": 156,
+      "order": 209,
       "name": "feedback-out",
       "prevSize": 32
     },
     {
-      "order": 157,
+      "order": 210,
       "name": "action_get_up",
       "prevSize": 32
     },
     {
-      "order": 158,
+      "order": 211,
       "name": "action_get_down",
       "prevSize": 32
     },
     {
-      "order": 159,
+      "order": 212,
       "name": "action_move",
       "prevSize": 32
     },
     {
-      "order": 160,
+      "order": 213,
       "name": "action_key",
       "prevSize": 32
     },
     {
-      "order": 161,
+      "order": 214,
       "name": "action_sign_info",
       "prevSize": 32
     },
     {
-      "order": 319,
+      "order": 215,
       "name": "action_sign_info-out",
       "prevSize": 32
     },
     {
-      "order": 163,
+      "order": 216,
       "name": "qr-code-no-border",
       "prevSize": 32
     },
     {
-      "order": 164,
+      "order": 217,
       "name": "qr-code",
       "prevSize": 32
     },
     {
-      "order": 165,
+      "order": 218,
       "name": "drag-dots",
       "prevSize": 32
     },
     {
-      "order": 166,
+      "order": 219,
       "name": "drag-bars",
       "prevSize": 32
     },
     {
-      "order": 167,
+      "order": 220,
       "name": "action_arrow_down",
       "prevSize": 32
     },
     {
-      "order": 168,
+      "order": 221,
       "name": "action_arrow_left",
       "prevSize": 32
     },
     {
-      "order": 169,
+      "order": 222,
       "name": "action_arrow_up",
       "prevSize": 32
     },
     {
-      "order": 170,
+      "order": 223,
       "name": "action_arrow_right",
       "prevSize": 32
     },
     {
-      "order": 171,
+      "order": 224,
       "name": "action_plus",
       "prevSize": 32
     },
     {
-      "order": 300,
+      "order": 225,
       "name": "minus",
       "prevSize": 32
     },
     {
-      "order": 301,
+      "order": 226,
       "name": "action_reload",
       "prevSize": 32
     },
     {
-      "order": 302,
+      "order": 227,
       "name": "action_list",
       "prevSize": 32
     },
     {
-      "order": 303,
+      "order": 228,
       "name": "action_options",
       "prevSize": 32
     },
     {
-      "order": 304,
+      "order": 229,
       "name": "historic",
       "prevSize": 32
     },
     {
-      "order": 320,
+      "order": 230,
       "name": "load",
       "prevSize": 32,
       "codes": [
@@ -1150,372 +1150,380 @@
       ]
     },
     {
-      "order": 2,
+      "order": 231,
       "name": "plugin",
       "prevSize": 32
     },
     {
-      "order": 173,
+      "order": 232,
       "name": "modules",
       "prevSize": 32
     },
     {
-      "order": 174,
+      "order": 233,
       "name": "platform",
       "prevSize": 32
     },
     {
-      "order": 175,
+      "order": 234,
       "name": "barcode",
       "prevSize": 32
     },
     {
-      "order": 176,
+      "order": 235,
       "name": "barcode-out",
       "prevSize": 32
     },
     {
-      "order": 177,
+      "order": 236,
       "name": "camera",
       "prevSize": 32
     },
     {
-      "order": 178,
+      "order": 237,
       "name": "camera-out",
       "prevSize": 32
     },
     {
-      "order": 179,
+      "order": 238,
       "name": "cast",
       "prevSize": 32
     },
     {
-      "order": 180,
+      "order": 239,
       "name": "cast-out",
       "prevSize": 32
     },
     {
-      "order": 181,
+      "order": 240,
       "name": "location",
       "prevSize": 32
     },
     {
-      "order": 182,
+      "order": 241,
       "name": "location-out",
       "prevSize": 32
     },
     {
-      "order": 183,
+      "order": 242,
       "name": "clock",
       "prevSize": 32
     },
     {
-      "order": 184,
+      "order": 243,
       "name": "clock-out",
       "prevSize": 32
     },
     {
-      "order": 185,
+      "order": 244,
       "name": "card",
       "prevSize": 32
     },
     {
-      "order": 186,
+      "order": 245,
       "name": "card-out",
       "prevSize": 32
     },
     {
-      "order": 187,
+      "order": 246,
       "name": "receipt",
       "prevSize": 32
     },
     {
-      "order": 188,
+      "order": 247,
       "name": "receipt-out",
       "prevSize": 32
     },
     {
-      "order": 306,
+      "order": 248,
       "name": "email",
       "prevSize": 32
     },
     {
-      "order": 307,
+      "order": 249,
       "name": "email-out",
       "prevSize": 32
     },
     {
-      "order": 308,
+      "order": 250,
       "name": "pix",
       "prevSize": 32
     },
     {
-      "order": 309,
+      "order": 251,
       "name": "pix-out",
       "prevSize": 32
     },
     {
-      "order": 310,
+      "order": 252,
       "name": "location-cell",
       "prevSize": 32
     },
     {
-      "order": 311,
+      "order": 253,
       "name": "location-cell-out",
       "prevSize": 32
     },
     {
-      "order": 2,
+      "order": 254,
       "name": "image-rights",
       "prevSize": 32
     },
     {
-      "order": 4,
+      "order": 255,
       "name": "image-rights-allowed",
       "prevSize": 32
     },
     {
-      "order": 190,
+      "order": 256,
+      "name": "forbidden-passage",
+      "prevSize": 32
+    },
+    {
+      "order": 257,
+      "name": "allowed-passage",
+      "prevSize": 32
+    },
+    {
+      "order": 258,
       "name": "food-restriction",
       "prevSize": 32
     },
     {
-      "order": 3,
+      "order": 259,
       "name": "no-food-restriction",
       "prevSize": 32
     },
     {
-      "order": 191,
+      "order": 260,
       "name": "allergy",
       "prevSize": 32
     },
     {
-      "order": 192,
+      "order": 261,
       "name": "special-need",
       "prevSize": 32
     },
     {
-      "order": 193,
+      "order": 262,
       "name": "map",
       "prevSize": 32
     },
     {
-      "order": 194,
+      "order": 263,
       "name": "apple",
       "prevSize": 32
     },
     {
-      "order": 195,
+      "order": 264,
       "name": "number",
       "prevSize": 32
     },
     {
-      "order": 196,
+      "order": 265,
       "name": "flow",
       "prevSize": 32
     },
     {
-      "order": 197,
+      "order": 266,
       "name": "ibf-church",
       "prevSize": 32
     },
     {
-      "order": 198,
+      "order": 267,
       "name": "process-barcode",
       "prevSize": 32
     },
     {
-      "order": 199,
+      "order": 268,
       "name": "process-card",
       "prevSize": 32
     },
     {
-      "order": 200,
+      "order": 269,
       "name": "box-opened",
       "prevSize": 32
     },
     {
-      "order": 201,
+      "order": 270,
       "name": "parent",
       "prevSize": 32
     },
     {
-      "order": 202,
+      "order": 271,
       "name": "kid-girl",
       "prevSize": 32
     },
     {
-      "order": 203,
+      "order": 272,
       "name": "kid-boy",
       "prevSize": 32
     },
     {
-      "order": 204,
+      "order": 273,
       "name": "people",
       "prevSize": 32
     },
     {
-      "order": 205,
+      "order": 274,
       "name": "circle-code",
       "prevSize": 32
     },
     {
-      "order": 312,
+      "order": 275,
       "name": "circle-email",
       "prevSize": 32
     },
     {
-      "order": 313,
+      "order": 276,
       "name": "circle-facebook",
       "prevSize": 32
     },
     {
-      "order": 314,
+      "order": 277,
       "name": "facebook",
       "prevSize": 32
     },
     {
-      "order": 315,
+      "order": 278,
       "name": "circle-instagram",
       "prevSize": 32
     },
     {
-      "order": 316,
+      "order": 279,
       "name": "instagram",
       "prevSize": 32
     },
     {
-      "order": 206,
+      "order": 280,
       "name": "soundcloud",
       "prevSize": 32
     },
     {
-      "order": 321,
+      "order": 281,
       "prevSize": 32,
       "name": "circle-soundcloud"
     },
     {
-      "order": 207,
+      "order": 282,
       "name": "spotify",
       "prevSize": 32
     },
     {
-      "order": 322,
+      "order": 283,
       "name": "circle-spotify",
       "prevSize": 32
     },
     {
-      "order": 208,
+      "order": 284,
       "name": "circle-telegram",
       "prevSize": 32
     },
     {
-      "order": 209,
+      "order": 285,
       "name": "telegram",
       "prevSize": 32
     },
     {
-      "order": 323,
+      "order": 286,
       "prevSize": 32,
       "name": "circle-tiktok"
     },
     {
-      "order": 210,
+      "order": 287,
       "name": "tiktok",
       "prevSize": 32
     },
     {
-      "order": 211,
+      "order": 288,
       "name": "circle-twitter",
       "prevSize": 32
     },
     {
-      "order": 212,
+      "order": 289,
       "name": "twitter",
       "prevSize": 32
     },
     {
-      "order": 213,
+      "order": 290,
       "name": "circle-whatsapp",
       "prevSize": 32
     },
     {
-      "order": 214,
+      "order": 291,
       "name": "whatsapp",
       "prevSize": 32
     },
     {
-      "order": 215,
+      "order": 292,
       "name": "circle-youtube",
       "prevSize": 32
     },
     {
-      "order": 216,
+      "order": 293,
       "name": "youtube",
       "prevSize": 32
     },
     {
-      "order": 324,
+      "order": 294,
       "prevSize": 32,
       "name": "circle-share"
     },
     {
-      "order": 317,
+      "order": 295,
       "name": "share1",
       "prevSize": 32
     },
     {
-      "order": 217,
+      "order": 296,
       "name": "opened-lock",
       "prevSize": 32
     },
     {
-      "order": 218,
+      "order": 297,
       "name": "flickr",
       "prevSize": 32
     },
     {
-      "order": 219,
+      "order": 298,
       "name": "emoji-happy",
       "prevSize": 32
     },
     {
-      "order": 220,
+      "order": 299,
       "name": "emoji-happy-out",
       "prevSize": 32
     },
     {
-      "order": 221,
+      "order": 300,
       "name": "emoji-happy-color",
       "prevSize": 32,
       "codes": [
-        59941,
-        59942,
         59943,
         59944,
         59945,
         59946,
         59947,
-        59948
+        59948,
+        59949,
+        59950
       ]
     },
     {
-      "order": 318,
+      "order": 301,
       "name": "emoji-prosperous",
       "prevSize": 32
     },
     {
-      "order": 240,
+      "order": 302,
       "name": "emoji-prosperous-out",
       "prevSize": 32
     },
     {
-      "order": 241,
+      "order": 303,
       "name": "emoji-prosperous-color",
       "prevSize": 32,
       "codes": [
-        59951,
-        59952,
         59953,
         59954,
         59955,
@@ -1526,88 +1534,90 @@
         59960,
         59961,
         59962,
-        59963
+        59963,
+        59964,
+        59965
       ]
     },
     {
-      "order": 242,
+      "order": 304,
       "name": "emoji-blessed",
       "prevSize": 32
     },
     {
-      "order": 243,
+      "order": 305,
       "name": "emoji-blessed-out",
       "prevSize": 32
     },
     {
-      "order": 244,
+      "order": 306,
       "name": "emoji-blessed-color",
       "prevSize": 32,
       "codes": [
-        59966,
-        59967,
         59968,
         59969,
         59970,
         59971,
         59972,
-        59973
+        59973,
+        59974,
+        59975
       ]
     },
     {
-      "order": 245,
+      "order": 307,
       "name": "emoji-sick",
       "prevSize": 32
     },
     {
-      "order": 223,
+      "order": 308,
       "name": "emoji-sick-out",
       "prevSize": 32
     },
     {
-      "order": 224,
+      "order": 309,
       "name": "emoji-sick-color",
       "prevSize": 32,
       "codes": [
-        59976,
-        59977,
         59978,
         59979,
         59980,
         59981,
         59982,
         59983,
-        59984
+        59984,
+        59985,
+        59986
       ]
     },
     {
-      "order": 225,
+      "order": 310,
       "name": "emoji-alone",
       "prevSize": 32
     },
     {
-      "order": 226,
+      "order": 311,
       "name": "emoji-alone-out",
       "prevSize": 32
     },
     {
-      "order": 227,
+      "order": 312,
       "name": "emoji-alone-color",
       "prevSize": 32,
       "codes": [
-        59987,
-        59988,
         59989,
         59990,
         59991,
         59992,
         59993,
         59994,
-        59995
+        59995,
+        59996,
+        59999
       ]
     },
     {
-      "order": 228,
+      "order": 313,
       "name": "emoji-sad",
       "prevSize": 32,
       "codes": [
@@ -1618,7 +1628,7 @@
       ]
     },
     {
-      "order": 229,
+      "order": 314,
       "name": "emoji-sad-out",
       "prevSize": 32,
       "codes": [
@@ -1631,7 +1641,7 @@
       ]
     },
     {
-      "order": 230,
+      "order": 315,
       "name": "emoji-sad-color",
       "prevSize": 32,
       "codes": [
@@ -1651,17 +1661,17 @@
       ]
     },
     {
-      "order": 231,
+      "order": 316,
       "name": "emoji-faithless",
       "prevSize": 32
     },
     {
-      "order": 232,
+      "order": 317,
       "name": "emoji-faithless-out",
       "prevSize": 32
     },
     {
-      "order": 233,
+      "order": 318,
       "name": "emoji-faithless-color",
       "prevSize": 32,
       "codes": [
@@ -1676,17 +1686,17 @@
       ]
     },
     {
-      "order": 234,
+      "order": 319,
       "name": "emoji-careful",
       "prevSize": 32
     },
     {
-      "order": 236,
+      "order": 320,
       "name": "emoji-careful-out",
       "prevSize": 32
     },
     {
-      "order": 235,
+      "order": 321,
       "name": "emoji-careful-color",
       "prevSize": 32,
       "codes": [
@@ -1701,17 +1711,17 @@
       ]
     },
     {
-      "order": 237,
+      "order": 322,
       "name": "emoji-distressed",
       "prevSize": 32
     },
     {
-      "order": 238,
+      "order": 323,
       "name": "emoji-distressed-out",
       "prevSize": 32
     },
     {
-      "order": 239,
+      "order": 324,
       "name": "emoji-distressed-color",
       "prevSize": 32,
       "codes": [
@@ -1729,10 +1739,10 @@
   "metadata": {
     "name": "matcha-icons",
     "importSize": {
-      "width": 24,
-      "height": 24
+      "width": 768,
+      "height": 768
     },
-    "iconsHash": 1880940473
+    "iconsHash": 1931265765
   },
   "height": 1024,
   "prevSize": 24,
@@ -4343,6 +4353,26 @@
     },
     {
       "paths": [
+        "M511.867 1.333c-281.867 0-511.2 229.333-511.2 511.2s229.333 511.467 511.2 511.467c281.733 0 511.467-229.733 511.467-511.467s-229.733-511.2-511.467-511.2zM178.267 774.133c-10.8-1.067-20.533-6.8-26.667-15.733v0c-47.6-69.867-75.733-154.667-75.733-245.867 0-241.067 194.933-435.733 435.867-435.733v0c91.2 0 176 27.867 245.867 75.6 8.933 6.133 14.8 16 15.733 26.8s-2.933 21.6-10.667 29.2l-190.8 190.933c-4.8-10.267-9.467-20.133-13.2-28.533-14.933-32.933-25.733-41.6-47.067-41.6h-32.8c-17.2 0-23.467 6.133-34 11.867l-88.8 74c-7.733 4.4-12.8 10.933-15.733 20.133l-19.067 124.8c-2.8 19.867 8 28.4 20.267 30.8 9.867 2 24.667-2.8 27.733-16.8 2.4-11.6 20.4-113.6 20.4-113.6l58-43.467c-9.6 43.333-19.333 90.8-22.533 106.933-1.6 8.267-1.6 15.867-0.267 22.933l-217.333 217.067c-7.733 7.6-18.4 11.333-29.2 10.267zM511.867 948.533c-91.2 0-176-27.867-245.867-75.6-8.933-6.133-14.533-16-15.6-26.667-0.933-10.8 2.8-21.467 10.533-29.067v0l125.867-125.867-1.067 3.467c0 0-56 78.933-71.467 101.067-11.733 16.667-20.533 36.933-0.533 51.733 22.533 16.533 40.533-5.067 52-17.867 10.667-11.733 54-70.8 66.267-85.733 8.133-10.133 12.667-18.533 16.133-27.067 2.267-5.6 11.067-28.933 16.667-44.133l-25.467-34.133 23.067-23.067c38.8 59.2 126.8 193.867 140.8 211.6 17.333 22 33.067 32.8 57.2 19.733 20.267-11.067 16.8-36.133 5.6-54.8s-143.467-228.667-143.467-228.667l2.533-10.533 45.867-45.867c3.2 3.333 7.333 5.6 15.2 9.867 12.267 6.533 71.467 32.8 89.467 40.8 16 6.933 35.867 9.6 43.733-4.267 8-13.733-2.133-30.267-14-35.6-12-5.333-85.867-41.067-98.133-46.933l209.067-209.2c6.533-6.667 15.467-10.533 24.8-10.8v0 0c12.533-0.4 24.267 5.6 31.333 15.867v0c47.6 69.867 75.467 154.667 75.467 245.867 0 240.933-194.933 435.867-436 435.867zM548.267 303.067c37.2 0 67.333-29.333 67.333-65.6s-30.133-65.6-67.333-65.6c-37.2 0-67.333 29.333-67.333 65.6s30.133 65.6 67.333 65.6z"
+      ],
+      "grid": 24,
+      "tags": [
+        "forbidden-passage"
+      ],
+      "defaultCode": 59827
+    },
+    {
+      "paths": [
+        "M511.867 0.667c-282.133 0-511.867 229.733-511.867 511.867s229.733 512.133 511.867 512.133 512.133-230 512.133-512.133-230-511.867-512.133-511.867zM511.867 949.067v0c-91.333 0-176.267-27.867-246.267-75.6-2-1.333-3.733-2.933-5.467-4.667-40.933-28.933-76.8-64.8-105.6-105.867-1.2-1.333-2.4-2.8-3.467-4.267-43.867-64.267-71.067-141.2-75.333-224 0-0.133 0-0.133 0-0.267-0.133-3.467-0.267-6.8-0.4-10.267 0-0.4 0-0.8 0-1.2-0.133-3.467-0.133-6.933-0.133-10.4v-0.267c0-241.067 195.467-436.533 436.533-436.533 148.667 0 279.867 74.267 358.667 187.733 0.8 0.933 1.6 2 2.267 2.933 26 38 46 80.533 58.933 126 0.133 0.267 0.133 0.533 0.267 0.667 0.8 2.933 1.6 6 2.4 9.067 0.133 0.533 0.267 0.933 0.4 1.467 0.8 3.2 1.6 6.4 2.4 9.733 0.133 0.667 0.267 1.467 0.4 2.133 0.533 2.4 1.067 4.8 1.6 7.2 0.267 1.467 0.533 2.8 0.8 4.267 0.4 1.733 0.667 3.467 0.933 5.067s0.533 3.2 0.8 4.667c0.267 1.6 0.533 3.333 0.8 5.067 0.4 2.8 0.933 5.733 1.333 8.533 0.267 1.467 0.4 2.933 0.667 4.4 0.267 1.733 0.4 3.467 0.667 5.333 0.133 1.467 0.4 2.933 0.533 4.4 0.133 1.733 0.4 3.467 0.533 5.067 0.133 2 0.4 3.867 0.533 5.867s0.267 3.867 0.4 5.867c0.133 2.4 0.267 4.8 0.4 7.2 0 1.2 0.133 2.4 0.133 3.6 0.133 2.4 0.267 4.933 0.267 7.333 0 0.933 0 1.733 0.133 2.667 0.133 3.6 0.133 7.067 0.133 10.667 0.267 241.2-194.933 436.4-436.267 436.4zM548.267 302.933c37.2 0 67.333-29.333 67.333-65.733 0-36.267-30.133-65.733-67.333-65.733s-67.333 29.333-67.333 65.733c0 36.267 30.133 65.733 67.333 65.733zM705.467 517.733c-13.2-5.733-100-47.867-100-47.867s-30.8-64-46.667-99.067c-14.933-32.933-25.733-41.6-47.067-41.6h-32.933c-17.2 0-23.6 6.133-34 12l-88.933 73.867c-7.733 4.4-12.8 10.933-15.733 20.133l-19.2 124.8c-2.8 19.867 8 28.4 20.267 30.8 9.867 2 24.667-2.8 27.733-16.8 2.4-11.6 20.4-113.733 20.4-113.733l58-43.467c-9.6 43.333-19.333 90.933-22.533 107.067-5.467 27.6 8.533 48.533 19.733 64.933 10.133 14.933 141.333 216.8 158.667 238.667 17.333 22 33.2 32.8 57.2 19.733 20.267-11.067 16.8-36.133 5.6-54.8s-143.467-228.8-143.467-228.8l22.267-93.733c0 0 15.333 21.467 23.333 33.467 3.867 5.6 7.733 8 18.133 13.467 12.267 6.533 71.6 32.8 89.6 40.8 16 6.933 35.867 9.6 43.867-4.267 7.867-13.6-2.267-30.267-14.267-35.6zM385.6 695.067c0 0-56 79.067-71.6 101.2-11.733 16.667-20.533 36.933-0.533 51.733 22.533 16.533 40.533-5.067 52.133-17.867 10.667-11.733 54-70.8 66.267-85.867 8.133-10.133 12.667-18.667 16.133-27.067 2.267-5.6 11.067-29.067 16.667-44.133l-52.267-70.4-26.8 92.4z"
+      ],
+      "grid": 24,
+      "tags": [
+        "allowed-passage"
+      ],
+      "defaultCode": 59828
+    },
+    {
+      "paths": [
         "M511.846 0c-282.169 0-511.846 229.73-511.846 511.898 0 282.189 229.678 512.102 511.846 512.102s512.154-229.936 512.154-512.102c0-282.147-229.984-511.898-512.154-511.898zM511.846 75.612c91.35 0 176.205 27.923 246.211 75.613 8.998 6.148 14.822 16.040 15.821 26.899 0.966 10.857-2.95 21.607-10.678 29.289l-215.398 215.396c-5.226 0.835-10.448 1.597-15.706 2.086 8.755-55.562 86.138-119.343 86.138-119.343l-34.63-49.425c0 0-0.81 0.593-2.288 1.83-1.824 1.403-4.291 3.431-6.87 5.746-5.482 4.77-12.675 11.765-20.694 20.645-8.029 8.837-16.685 19.738-24.915 32.188-4.096 6.274-7.92 13.029-11.693 19.883-0.64 1.402-1.29 2.816-2.080 4.218 8.611-27.718-2.208-60.58-29.491-81.103-58.506-43.873-133.050-48.673-183.72-45.307-6.353 0.423-12.933 5.458-15.965 12.356-3.015 6.854-1.774 13.764 3.048 16.73 32.515 19.962 77.050 57.337 113.498 124.48 14.528 26.858 47.398 26.998 73.83 14.592 3.146 10.605 5.082 24.051 4.582 41.088-21.347-3.008-42.355-8.944-62.24-18.307-31.526-14.771-63.699-17.846-92.038-6.102-72.228 30.026-92.278 144.893-44.798 256.534 3.306 7.779 6.918 15.261 10.676 22.579l-85.376 85.376c-7.725 7.6-18.403 11.376-29.187 10.32-10.788-1.050-20.532-6.816-26.645-15.763-47.699-70.016-75.868-154.874-75.868-246.211 0-241.327 195.157-436.285 436.49-436.285h-0.013zM841.504 249.72c12.48-0.387 24.33 5.597 31.373 15.916 47.715 69.976 75.565 154.92 75.565 246.213 0 241.363-195.238 436.589-436.595 436.589-91.296 0-176.243-27.898-246.211-75.613-8.886-6.173-14.578-15.958-15.562-26.746-0.967-10.787 2.839-21.469 10.482-29.136l74.951-75.002c49.408 56.147 112.253 82.563 162.922 61.526 8.723-3.61 18.464-3.61 27.152 0 72.234 29.987 169.306-36.192 216.72-147.869 47.459-111.645 27.382-226.493-44.848-256.483-4.803-2.003-9.786-3.418-14.803-4.579l133.987-134.037c6.592-6.646 15.498-10.485 24.864-10.78h0.003z"
       ],
       "tags": [
@@ -4399,7 +4429,7 @@
       "tags": [
         "apple"
       ],
-      "defaultCode": 59827,
+      "defaultCode": 59830,
       "grid": 24
     },
     {
@@ -4419,7 +4449,7 @@
       "tags": [
         "flow"
       ],
-      "defaultCode": 59830,
+      "defaultCode": 59831,
       "grid": 24
     },
     {
@@ -4431,7 +4461,7 @@
       "tags": [
         "ibf-church"
       ],
-      "defaultCode": 59831,
+      "defaultCode": 59834,
       "grid": 24
     },
     {
@@ -4459,7 +4489,7 @@
       "tags": [
         "process-barcode"
       ],
-      "defaultCode": 59834,
+      "defaultCode": 59835,
       "grid": 24
     },
     {
@@ -4483,7 +4513,7 @@
       "tags": [
         "process-card"
       ],
-      "defaultCode": 59835,
+      "defaultCode": 59842,
       "grid": 24
     },
     {
@@ -4493,7 +4523,7 @@
       "tags": [
         "box-opened"
       ],
-      "defaultCode": 59828,
+      "defaultCode": 59843,
       "grid": 24
     },
     {
@@ -4544,7 +4574,7 @@
       "tags": [
         "circle-code"
       ],
-      "defaultCode": 59842,
+      "defaultCode": 59844,
       "grid": 24
     },
     {
@@ -4554,7 +4584,7 @@
       "tags": [
         "circle-email"
       ],
-      "defaultCode": 59843,
+      "defaultCode": 59845,
       "grid": 24
     },
     {
@@ -4564,7 +4594,7 @@
       "tags": [
         "circle-facebook"
       ],
-      "defaultCode": 59844,
+      "defaultCode": 59846,
       "grid": 24
     },
     {
@@ -4584,7 +4614,7 @@
       "tags": [
         "circle-instagram"
       ],
-      "defaultCode": 59845,
+      "defaultCode": 59847,
       "grid": 24
     },
     {
@@ -4608,7 +4638,7 @@
       "tags": [
         "soundcloud"
       ],
-      "defaultCode": 59847,
+      "defaultCode": 59869,
       "grid": 24
     },
     {
@@ -4628,7 +4658,7 @@
       "tags": [
         "spotify"
       ],
-      "defaultCode": 59869,
+      "defaultCode": 59884,
       "grid": 24
     },
     {
@@ -4648,7 +4678,7 @@
       "tags": [
         "circle-telegram"
       ],
-      "defaultCode": 59884,
+      "defaultCode": 59885,
       "grid": 24
     },
     {
@@ -4658,7 +4688,7 @@
       "tags": [
         "telegram"
       ],
-      "defaultCode": 59885,
+      "defaultCode": 59886,
       "grid": 24
     },
     {
@@ -4678,7 +4708,7 @@
       "tags": [
         "tiktok"
       ],
-      "defaultCode": 59886,
+      "defaultCode": 59887,
       "grid": 24
     },
     {
@@ -4688,7 +4718,7 @@
       "tags": [
         "circle-twitter"
       ],
-      "defaultCode": 59887,
+      "defaultCode": 59888,
       "grid": 24
     },
     {
@@ -4698,7 +4728,7 @@
       "tags": [
         "twitter"
       ],
-      "defaultCode": 59888,
+      "defaultCode": 59889,
       "grid": 24
     },
     {
@@ -4708,7 +4738,7 @@
       "tags": [
         "circle-whatsapp"
       ],
-      "defaultCode": 59889,
+      "defaultCode": 59890,
       "grid": 24
     },
     {
@@ -4719,7 +4749,7 @@
       "tags": [
         "whatsapp"
       ],
-      "defaultCode": 59890,
+      "defaultCode": 59891,
       "grid": 24
     },
     {
@@ -4729,7 +4759,7 @@
       "tags": [
         "circle-youtube"
       ],
-      "defaultCode": 59891,
+      "defaultCode": 59892,
       "grid": 24
     },
     {
@@ -4739,7 +4769,7 @@
       "tags": [
         "youtube"
       ],
-      "defaultCode": 59892,
+      "defaultCode": 59916,
       "grid": 24
     },
     {
@@ -4759,7 +4789,7 @@
       "tags": [
         "share"
       ],
-      "defaultCode": 59846,
+      "defaultCode": 59938,
       "grid": 24
     },
     {
@@ -4769,7 +4799,7 @@
       "tags": [
         "opened-lock"
       ],
-      "defaultCode": 59916,
+      "defaultCode": 59939,
       "grid": 24
     },
     {
@@ -4779,7 +4809,7 @@
       "tags": [
         "flickr"
       ],
-      "defaultCode": 59938,
+      "defaultCode": 59940,
       "grid": 24
     },
     {
@@ -4789,7 +4819,7 @@
       "tags": [
         "emoji-happy"
       ],
-      "defaultCode": 59939,
+      "defaultCode": 59941,
       "grid": 24
     },
     {
@@ -4803,7 +4833,7 @@
       "tags": [
         "emoji-happy-out"
       ],
-      "defaultCode": 59940,
+      "defaultCode": 59942,
       "grid": 24
     },
     {
@@ -4875,7 +4905,7 @@
       "tags": [
         "emoji-happy-color"
       ],
-      "defaultCode": 59941,
+      "defaultCode": 59943,
       "grid": 24
     },
     {
@@ -4885,7 +4915,7 @@
       "tags": [
         "emoji-prosperous"
       ],
-      "defaultCode": 59949,
+      "defaultCode": 59951,
       "grid": 24
     },
     {
@@ -4902,7 +4932,7 @@
       "tags": [
         "emoji-prosperous-out"
       ],
-      "defaultCode": 59950,
+      "defaultCode": 59952,
       "grid": 24
     },
     {
@@ -5009,7 +5039,7 @@
       "tags": [
         "emoji-prosperous-color"
       ],
-      "defaultCode": 59951,
+      "defaultCode": 59953,
       "grid": 24
     },
     {
@@ -5021,7 +5051,7 @@
       "tags": [
         "emoji-blessed"
       ],
-      "defaultCode": 59964,
+      "defaultCode": 59966,
       "grid": 24
     },
     {
@@ -5036,7 +5066,7 @@
       "tags": [
         "emoji-blessed-out"
       ],
-      "defaultCode": 59965,
+      "defaultCode": 59967,
       "grid": 24
     },
     {
@@ -5108,7 +5138,7 @@
       "tags": [
         "emoji-blessed-color"
       ],
-      "defaultCode": 59966,
+      "defaultCode": 59968,
       "grid": 24
     },
     {
@@ -5118,7 +5148,7 @@
       "tags": [
         "emoji-sick"
       ],
-      "defaultCode": 59974,
+      "defaultCode": 59976,
       "grid": 24
     },
     {
@@ -5135,7 +5165,7 @@
       "tags": [
         "emoji-sick-out"
       ],
-      "defaultCode": 59975,
+      "defaultCode": 59977,
       "grid": 24
     },
     {
@@ -5214,7 +5244,7 @@
       "tags": [
         "emoji-sick-color"
       ],
-      "defaultCode": 59976,
+      "defaultCode": 59978,
       "grid": 24
     },
     {
@@ -5224,7 +5254,7 @@
       "tags": [
         "emoji-alone"
       ],
-      "defaultCode": 59985,
+      "defaultCode": 59987,
       "grid": 24
     },
     {
@@ -5240,7 +5270,7 @@
       "tags": [
         "emoji-alone-out"
       ],
-      "defaultCode": 59986,
+      "defaultCode": 59988,
       "grid": 24
     },
     {
@@ -5319,7 +5349,7 @@
       "tags": [
         "emoji-alone-color"
       ],
-      "defaultCode": 59987,
+      "defaultCode": 59989,
       "grid": 24
     },
     {
@@ -5329,7 +5359,7 @@
       "tags": [
         "emoji-sad"
       ],
-      "defaultCode": 59996,
+      "defaultCode": 60002,
       "grid": 24
     },
     {
@@ -5339,7 +5369,7 @@
       "tags": [
         "emoji-sad-out"
       ],
-      "defaultCode": 59999,
+      "defaultCode": 60003,
       "grid": 24
     },
     {
@@ -5821,7 +5851,7 @@
       "prefix": "i-matcha-",
       "metadata": {
         "fontFamily": "matcha-icons",
-        "majorVersion": 7,
+        "majorVersion": 8,
         "minorVersion": 0
       },
       "metrics": {
@@ -5849,7 +5879,7 @@
     },
     "historySize": 50,
     "gridSize": 16,
-    "showGrid": false
+    "showGrid": true
   },
   "IcoMoonType": "icon-set"
 }

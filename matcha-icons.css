@@ -309,105 +309,107 @@
 .i-matcha-location-cell-out:before{content:"\e967"}
 .i-matcha-image-rights:before{content:"\e9bc"}
 .i-matcha-image-rights-allowed:before{content:"\e9bd"}
+.i-matcha-forbidden-passage:before{content:"\e9b3"}
+.i-matcha-allowed-passage:before{content:"\e9b4"}
 .i-matcha-food-restriction:before{content:"\e9be"}
 .i-matcha-no-food-restriction:before{content:"\e9bf"}
 .i-matcha-allergy:before{content:"\e9c0"}
 .i-matcha-special-need:before{content:"\e9c1"}
 .i-matcha-map:before{content:"\e9b8"}
-.i-matcha-apple:before{content:"\e9b3"}
+.i-matcha-apple:before{content:"\e9b6"}
 .i-matcha-number:before{content:"\e9b9"}
-.i-matcha-flow:before{content:"\e9b6"}
-.i-matcha-ibf-church:before{content:"\e9b7"}
-.i-matcha-process-barcode:before{content:"\e9ba"}
-.i-matcha-process-card:before{content:"\e9bb"}
-.i-matcha-box-opened:before{content:"\e9b4"}
+.i-matcha-flow:before{content:"\e9b7"}
+.i-matcha-ibf-church:before{content:"\e9ba"}
+.i-matcha-process-barcode:before{content:"\e9bb"}
+.i-matcha-process-card:before{content:"\e9c2"}
+.i-matcha-box-opened:before{content:"\e9c3"}
 .i-matcha-parent:before{content:"\ea1e"}
 .i-matcha-kid-girl:before{content:"\ea1f"}
 .i-matcha-kid-boy:before{content:"\ea20"}
 .i-matcha-people:before{content:"\ea21"}
-.i-matcha-circle-code:before{content:"\e9c2"}
-.i-matcha-circle-email:before{content:"\e9c3"}
-.i-matcha-circle-facebook:before{content:"\e9c4"}
+.i-matcha-circle-code:before{content:"\e9c4"}
+.i-matcha-circle-email:before{content:"\e9c5"}
+.i-matcha-circle-facebook:before{content:"\e9c6"}
 .i-matcha-facebook:before{content:"\e9ea"}
-.i-matcha-circle-instagram:before{content:"\e9c5"}
+.i-matcha-circle-instagram:before{content:"\e9c7"}
 .i-matcha-instagram:before{content:"\e9eb"}
-.i-matcha-soundcloud:before{content:"\e9c7"}
+.i-matcha-soundcloud:before{content:"\e9dd"}
 .i-matcha-circle-soundcloud:before{content:"\ea5d"}
-.i-matcha-spotify:before{content:"\e9dd"}
+.i-matcha-spotify:before{content:"\e9ec"}
 .i-matcha-circle-spotify:before{content:"\ea5e"}
-.i-matcha-circle-telegram:before{content:"\e9ec"}
-.i-matcha-telegram:before{content:"\e9ed"}
+.i-matcha-circle-telegram:before{content:"\e9ed"}
+.i-matcha-telegram:before{content:"\e9ee"}
 .i-matcha-circle-tiktok:before{content:"\ea60"}
-.i-matcha-tiktok:before{content:"\e9ee"}
-.i-matcha-circle-twitter:before{content:"\e9ef"}
-.i-matcha-twitter:before{content:"\e9f0"}
-.i-matcha-circle-whatsapp:before{content:"\e9f1"}
-.i-matcha-whatsapp:before{content:"\e9f2"}
-.i-matcha-circle-youtube:before{content:"\e9f3"}
-.i-matcha-youtube:before{content:"\e9f4"}
+.i-matcha-tiktok:before{content:"\e9ef"}
+.i-matcha-circle-twitter:before{content:"\e9f0"}
+.i-matcha-twitter:before{content:"\e9f1"}
+.i-matcha-circle-whatsapp:before{content:"\e9f2"}
+.i-matcha-whatsapp:before{content:"\e9f3"}
+.i-matcha-circle-youtube:before{content:"\e9f4"}
+.i-matcha-youtube:before{content:"\ea0c"}
 .i-matcha-circle-share:before{content:"\ea61"}
-.i-matcha-share1:before{content:"\e9c6"}
-.i-matcha-opened-lock:before{content:"\ea0c"}
-.i-matcha-flickr:before{content:"\ea22"}
-.i-matcha-emoji-happy:before{content:"\ea23"}
-.i-matcha-emoji-happy-out:before{content:"\ea24"}
-.i-matcha-emoji-happy-color .path1:before{content:"\ea25";color:#fcea2b}
-.i-matcha-emoji-happy-color .path2:before{content:"\ea26";margin-left:-1em;color:#f5f7fa}
-.i-matcha-emoji-happy-color .path3:before{content:"\ea27";margin-left:-1em;color:#ea5a47}
-.i-matcha-emoji-happy-color .path4:before{content:"\ea28";margin-left:-1em;color:#223744}
-.i-matcha-emoji-happy-color .path5:before{content:"\ea29";margin-left:-1em;color:#223744}
-.i-matcha-emoji-happy-color .path6:before{content:"\ea2a";margin-left:-1em;color:#223744}
-.i-matcha-emoji-happy-color .path7:before{content:"\ea2b";margin-left:-1em;color:#223744}
-.i-matcha-emoji-happy-color .path8:before{content:"\ea2c";margin-left:-1em;color:#223744}
-.i-matcha-emoji-prosperous:before{content:"\ea2d"}
-.i-matcha-emoji-prosperous-out:before{content:"\ea2e"}
-.i-matcha-emoji-prosperous-color .path1:before{content:"\ea2f";color:#fcea2b}
-.i-matcha-emoji-prosperous-color .path2:before{content:"\ea30";margin-left:-1em;color:#f1b31c}
-.i-matcha-emoji-prosperous-color .path3:before{content:"\ea31";margin-left:-1em;color:#f1b31c}
-.i-matcha-emoji-prosperous-color .path4:before{content:"\ea32";margin-left:-1em;color:#ea5a47}
-.i-matcha-emoji-prosperous-color .path5:before{content:"\ea33";margin-left:-1em;color:#f5f7fa}
-.i-matcha-emoji-prosperous-color .path6:before{content:"\ea34";margin-left:-1em;color:#223744}
-.i-matcha-emoji-prosperous-color .path7:before{content:"\ea35";margin-left:-1em;color:#223744}
-.i-matcha-emoji-prosperous-color .path8:before{content:"\ea36";margin-left:-1em;color:#223744}
-.i-matcha-emoji-prosperous-color .path9:before{content:"\ea37";margin-left:-1em;color:#223744}
-.i-matcha-emoji-prosperous-color .path10:before{content:"\ea38";margin-left:-1em;color:#223744}
-.i-matcha-emoji-prosperous-color .path11:before{content:"\ea39";margin-left:-1em;color:#223744}
-.i-matcha-emoji-prosperous-color .path12:before{content:"\ea3a";margin-left:-1em;color:#223744}
-.i-matcha-emoji-prosperous-color .path13:before{content:"\ea3b";margin-left:-1em;color:#223744}
-.i-matcha-emoji-blessed:before{content:"\ea3c"}
-.i-matcha-emoji-blessed-out:before{content:"\ea3d"}
-.i-matcha-emoji-blessed-color .path1:before{content:"\ea3e";color:#fcea2b}
-.i-matcha-emoji-blessed-color .path2:before{content:"\ea3f";margin-left:-1em;color:#223744}
-.i-matcha-emoji-blessed-color .path3:before{content:"\ea40";margin-left:-1em;color:#223744}
-.i-matcha-emoji-blessed-color .path4:before{content:"\ea41";margin-left:-1em;color:#223744}
-.i-matcha-emoji-blessed-color .path5:before{content:"\ea42";margin-left:-1em;color:#223744}
-.i-matcha-emoji-blessed-color .path6:before{content:"\ea43";margin-left:-1em;color:#223744}
-.i-matcha-emoji-blessed-color .path7:before{content:"\ea44";margin-left:-1em;color:#223744}
-.i-matcha-emoji-blessed-color .path8:before{content:"\ea45";margin-left:-1em;color:#61b2e4}
-.i-matcha-emoji-sick:before{content:"\ea46"}
-.i-matcha-emoji-sick-out:before{content:"\ea47"}
-.i-matcha-emoji-sick-color .path1:before{content:"\ea48";color:#b1cc33}
-.i-matcha-emoji-sick-color .path2:before{content:"\ea49";margin-left:-1em;color:#223744}
-.i-matcha-emoji-sick-color .path3:before{content:"\ea4a";margin-left:-1em;color:#223744}
-.i-matcha-emoji-sick-color .path4:before{content:"\ea4b";margin-left:-1em;color:#223744}
-.i-matcha-emoji-sick-color .path5:before{content:"\ea4c";margin-left:-1em;color:#223744}
-.i-matcha-emoji-sick-color .path6:before{content:"\ea4d";margin-left:-1em;color:#223744}
-.i-matcha-emoji-sick-color .path7:before{content:"\ea4e";margin-left:-1em;color:#223744}
-.i-matcha-emoji-sick-color .path8:before{content:"\ea4f";margin-left:-1em;color:#223744}
-.i-matcha-emoji-sick-color .path9:before{content:"\ea50";margin-left:-1em;color:#223744}
-.i-matcha-emoji-alone:before{content:"\ea51"}
-.i-matcha-emoji-alone-out:before{content:"\ea52"}
-.i-matcha-emoji-alone-color .path1:before{content:"\ea53";color:#fcea2b}
-.i-matcha-emoji-alone-color .path2:before{content:"\ea54";margin-left:-1em;color:#92d3f5}
-.i-matcha-emoji-alone-color .path3:before{content:"\ea55";margin-left:-1em;color:#223744}
-.i-matcha-emoji-alone-color .path4:before{content:"\ea56";margin-left:-1em;color:#223744}
-.i-matcha-emoji-alone-color .path5:before{content:"\ea57";margin-left:-1em;color:#223744}
-.i-matcha-emoji-alone-color .path6:before{content:"\ea58";margin-left:-1em;color:#223744}
-.i-matcha-emoji-alone-color .path7:before{content:"\ea59";margin-left:-1em;color:#223744}
-.i-matcha-emoji-alone-color .path8:before{content:"\ea5a";margin-left:-1em;color:#223744}
-.i-matcha-emoji-alone-color .path9:before{content:"\ea5b";margin-left:-1em;color:#223744}
-.i-matcha-emoji-sad:before{content:"\ea5c"}
-.i-matcha-emoji-sad-out:before{content:"\ea5f"}
+.i-matcha-share1:before{content:"\ea22"}
+.i-matcha-opened-lock:before{content:"\ea23"}
+.i-matcha-flickr:before{content:"\ea24"}
+.i-matcha-emoji-happy:before{content:"\ea25"}
+.i-matcha-emoji-happy-out:before{content:"\ea26"}
+.i-matcha-emoji-happy-color .path1:before{content:"\ea27";color:#fcea2b}
+.i-matcha-emoji-happy-color .path2:before{content:"\ea28";margin-left:-1em;color:#f5f7fa}
+.i-matcha-emoji-happy-color .path3:before{content:"\ea29";margin-left:-1em;color:#ea5a47}
+.i-matcha-emoji-happy-color .path4:before{content:"\ea2a";margin-left:-1em;color:#223744}
+.i-matcha-emoji-happy-color .path5:before{content:"\ea2b";margin-left:-1em;color:#223744}
+.i-matcha-emoji-happy-color .path6:before{content:"\ea2c";margin-left:-1em;color:#223744}
+.i-matcha-emoji-happy-color .path7:before{content:"\ea2d";margin-left:-1em;color:#223744}
+.i-matcha-emoji-happy-color .path8:before{content:"\ea2e";margin-left:-1em;color:#223744}
+.i-matcha-emoji-prosperous:before{content:"\ea2f"}
+.i-matcha-emoji-prosperous-out:before{content:"\ea30"}
+.i-matcha-emoji-prosperous-color .path1:before{content:"\ea31";color:#fcea2b}
+.i-matcha-emoji-prosperous-color .path2:before{content:"\ea32";margin-left:-1em;color:#f1b31c}
+.i-matcha-emoji-prosperous-color .path3:before{content:"\ea33";margin-left:-1em;color:#f1b31c}
+.i-matcha-emoji-prosperous-color .path4:before{content:"\ea34";margin-left:-1em;color:#ea5a47}
+.i-matcha-emoji-prosperous-color .path5:before{content:"\ea35";margin-left:-1em;color:#f5f7fa}
+.i-matcha-emoji-prosperous-color .path6:before{content:"\ea36";margin-left:-1em;color:#223744}
+.i-matcha-emoji-prosperous-color .path7:before{content:"\ea37";margin-left:-1em;color:#223744}
+.i-matcha-emoji-prosperous-color .path8:before{content:"\ea38";margin-left:-1em;color:#223744}
+.i-matcha-emoji-prosperous-color .path9:before{content:"\ea39";margin-left:-1em;color:#223744}
+.i-matcha-emoji-prosperous-color .path10:before{content:"\ea3a";margin-left:-1em;color:#223744}
+.i-matcha-emoji-prosperous-color .path11:before{content:"\ea3b";margin-left:-1em;color:#223744}
+.i-matcha-emoji-prosperous-color .path12:before{content:"\ea3c";margin-left:-1em;color:#223744}
+.i-matcha-emoji-prosperous-color .path13:before{content:"\ea3d";margin-left:-1em;color:#223744}
+.i-matcha-emoji-blessed:before{content:"\ea3e"}
+.i-matcha-emoji-blessed-out:before{content:"\ea3f"}
+.i-matcha-emoji-blessed-color .path1:before{content:"\ea40";color:#fcea2b}
+.i-matcha-emoji-blessed-color .path2:before{content:"\ea41";margin-left:-1em;color:#223744}
+.i-matcha-emoji-blessed-color .path3:before{content:"\ea42";margin-left:-1em;color:#223744}
+.i-matcha-emoji-blessed-color .path4:before{content:"\ea43";margin-left:-1em;color:#223744}
+.i-matcha-emoji-blessed-color .path5:before{content:"\ea44";margin-left:-1em;color:#223744}
+.i-matcha-emoji-blessed-color .path6:before{content:"\ea45";margin-left:-1em;color:#223744}
+.i-matcha-emoji-blessed-color .path7:before{content:"\ea46";margin-left:-1em;color:#223744}
+.i-matcha-emoji-blessed-color .path8:before{content:"\ea47";margin-left:-1em;color:#61b2e4}
+.i-matcha-emoji-sick:before{content:"\ea48"}
+.i-matcha-emoji-sick-out:before{content:"\ea49"}
+.i-matcha-emoji-sick-color .path1:before{content:"\ea4a";color:#b1cc33}
+.i-matcha-emoji-sick-color .path2:before{content:"\ea4b";margin-left:-1em;color:#223744}
+.i-matcha-emoji-sick-color .path3:before{content:"\ea4c";margin-left:-1em;color:#223744}
+.i-matcha-emoji-sick-color .path4:before{content:"\ea4d";margin-left:-1em;color:#223744}
+.i-matcha-emoji-sick-color .path5:before{content:"\ea4e";margin-left:-1em;color:#223744}
+.i-matcha-emoji-sick-color .path6:before{content:"\ea4f";margin-left:-1em;color:#223744}
+.i-matcha-emoji-sick-color .path7:before{content:"\ea50";margin-left:-1em;color:#223744}
+.i-matcha-emoji-sick-color .path8:before{content:"\ea51";margin-left:-1em;color:#223744}
+.i-matcha-emoji-sick-color .path9:before{content:"\ea52";margin-left:-1em;color:#223744}
+.i-matcha-emoji-alone:before{content:"\ea53"}
+.i-matcha-emoji-alone-out:before{content:"\ea54"}
+.i-matcha-emoji-alone-color .path1:before{content:"\ea55";color:#fcea2b}
+.i-matcha-emoji-alone-color .path2:before{content:"\ea56";margin-left:-1em;color:#92d3f5}
+.i-matcha-emoji-alone-color .path3:before{content:"\ea57";margin-left:-1em;color:#223744}
+.i-matcha-emoji-alone-color .path4:before{content:"\ea58";margin-left:-1em;color:#223744}
+.i-matcha-emoji-alone-color .path5:before{content:"\ea59";margin-left:-1em;color:#223744}
+.i-matcha-emoji-alone-color .path6:before{content:"\ea5a";margin-left:-1em;color:#223744}
+.i-matcha-emoji-alone-color .path7:before{content:"\ea5b";margin-left:-1em;color:#223744}
+.i-matcha-emoji-alone-color .path8:before{content:"\ea5c";margin-left:-1em;color:#223744}
+.i-matcha-emoji-alone-color .path9:before{content:"\ea5f";margin-left:-1em;color:#223744}
+.i-matcha-emoji-sad:before{content:"\ea62"}
+.i-matcha-emoji-sad-out:before{content:"\ea63"}
 .i-matcha-emoji-sad-color .path1:before{content:"\ea65";color:#223744}
 .i-matcha-emoji-sad-color .path2:before{content:"\ea66";margin-left:-1em;color:#223744}
 .i-matcha-emoji-sad-color .path3:before{content:"\ea67";margin-left:-1em;color:#223744}
