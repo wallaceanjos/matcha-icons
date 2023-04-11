@@ -265,7 +265,8 @@
 .i-matcha-action_get_up:before{content:"\e92d"}
 .i-matcha-action_get_down:before{content:"\e92c"}
 .i-matcha-action_move:before{content:"\e930"}
-.i-matcha-action_key:before{content:"\e92e"}
+.i-matcha-policy:before{content:"\e92e"}
+.i-matcha-action_key:before{content:"\ea64"}
 .i-matcha-action_sign_info:before{content:"\e936"}
 .i-matcha-action_sign_info-out:before{content:"\ea12"}
 .i-matcha-qr-code-no-border:before{content:"\ea13"}
