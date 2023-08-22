@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'matcha-icons';
-  src:  url('fonts/matcha-icons.eot?xsw39u');
-  src:  url('fonts/matcha-icons.eot?xsw39u#iefix') format('embedded-opentype'),
-    url('fonts/matcha-icons.ttf?xsw39u') format('truetype'),
-    url('fonts/matcha-icons.woff?xsw39u') format('woff'),
-    url('fonts/matcha-icons.svg?xsw39u#matcha-icons') format('svg');
+  src:  url('fonts/matcha-icons.eot?pp0ze9');
+  src:  url('fonts/matcha-icons.eot?pp0ze9#iefix') format('embedded-opentype'),
+    url('fonts/matcha-icons.ttf?pp0ze9') format('truetype'),
+    url('fonts/matcha-icons.woff?pp0ze9') format('woff'),
+    url('fonts/matcha-icons.svg?pp0ze9#matcha-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -378,6 +378,9 @@
 }
 .i-matcha-image-out:before {
   content: "\e994";
+}
+.i-matcha-edit-image:before {
+  content: "\ea92";
 }
 .i-matcha-bonus:before {
   content: "\e985";
