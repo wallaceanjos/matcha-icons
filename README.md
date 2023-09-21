@@ -27,6 +27,29 @@ straightforward as possible.
 
 ---
 
+## [1.0.15] - 2023-08-25
+
+Update icon library
+
+### Added
+
+- Matcha Logo\
+  source files `source/matcha.svg`
+
+---
+
+## [1.0.14] - 2023-08-25
+
+Update icon library
+
+### Changed
+
+- Update image for icons\
+  `.i-matcha-drag-dots`\
+  `.i-matcha-drag-bars`
+
+---
+
 ## [1.0.13] - 2023-08-25
 
 Update icon library
@@ -35,14 +58,6 @@ Update icon library
 
 - Edit image\
   css class `.i-matcha-edit-image`
-
-### Changed
-
-- Update image for icons\
-  `.i-matcha-drag-dots`\
-  `.i-matcha-drag-bars`
-
-### Fixed
 
 ---
 

@@ -18,7 +18,7 @@
 [class^="i-matcha-"], [class*=" i-matcha-"] {
 /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'MatchaIcons' !important;
-  speak: none;
+  /* speak: none; */
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -28,7 +28,7 @@
   height: 24px;
   width: 24px;
   position: relative;
-  top: -1px;
+  /* top: -1px; */
   display: inline-block;
   vertical-align: middle;
 /* Better Font Rendering =========== */
@@ -430,6 +430,9 @@
 }
 .i-matcha-image-out:before {
   content: "\e994";
+}
+.i-matcha-edit-image:before {
+  content: "\ea92";
 }
 .i-matcha-bonus:before {
   content: "\e985";
