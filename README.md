@@ -27,6 +27,17 @@ straightforward as possible.
 
 ---
 
+## [1.0.16] - 2023-08-25
+
+Update icon library
+
+### Changed
+
+- Move Matcha Logo to outside of source folder\
+  source files `source/matcha.svg`
+
+---
+
 ## [1.0.15] - 2023-08-25
 
 Update icon library
