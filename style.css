@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'matcha-icons';
-  src:  url('fonts/matcha-icons.eot?3tbohr');
-  src:  url('fonts/matcha-icons.eot?3tbohr#iefix') format('embedded-opentype'),
-    url('fonts/matcha-icons.ttf?3tbohr') format('truetype'),
-    url('fonts/matcha-icons.woff?3tbohr') format('woff'),
-    url('fonts/matcha-icons.svg?3tbohr#matcha-icons') format('svg');
+  src:  url('fonts/matcha-icons.eot?pvqwlj');
+  src:  url('fonts/matcha-icons.eot?pvqwlj#iefix') format('embedded-opentype'),
+    url('fonts/matcha-icons.ttf?pvqwlj') format('truetype'),
+    url('fonts/matcha-icons.woff?pvqwlj') format('woff'),
+    url('fonts/matcha-icons.svg?pvqwlj#matcha-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -235,6 +235,12 @@
 .i-matcha-print-out:before {
   content: "\e9fa";
 }
+.i-matcha-print2:before {
+  content: "\eae7";
+}
+.i-matcha-print-out2:before {
+  content: "\eae8";
+}
 .i-matcha-smile:before {
   content: "\e9fb";
 }
@@ -309,9 +315,6 @@
 }
 .i-matcha-contact-us:before {
   content: "\e979";
-}
-.i-matcha-header-panel:before {
-  content: "\e97d";
 }
 .i-matcha-audio:before {
   content: "\e984";
@@ -424,6 +427,9 @@
 .i-matcha-testimony-out:before {
   content: "\ea06";
 }
+.i-matcha-management:before {
+  content: "\eae1";
+}
 .i-matcha-pdf:before {
   content: "\e9e6";
 }
@@ -481,6 +487,12 @@
 .i-matcha-new-note-out1:before {
   content: "\e9ce";
 }
+.i-matcha-start-presentation:before {
+  content: "\eb0f";
+}
+.i-matcha-cancel-presentation:before {
+  content: "\eb10";
+}
 .i-matcha-text:before {
   content: "\e9dc";
 }
@@ -525,6 +537,12 @@
 }
 .i-matcha-filter-out:before {
   content: "\e916";
+}
+.i-matcha-rocket:before {
+  content: "\ea91";
+}
+.i-matcha-rocket-out:before {
+  content: "\eae6";
 }
 .i-matcha-filter-bars:before {
   content: "\e903";
@@ -1018,8 +1036,17 @@
 .i-matcha-plugin:before {
   content: "\ea1b";
 }
+.i-matcha-header-panel:before {
+  content: "\e97d";
+}
 .i-matcha-modules:before {
   content: "\ea1c";
+}
+.i-matcha-view-row:before {
+  content: "\eb11";
+}
+.i-matcha-view-column:before {
+  content: "\eb12";
 }
 .i-matcha-platform:before {
   content: "\ea1d";
@@ -1101,9 +1128,6 @@
 }
 .i-matcha-wallet-out:before {
   content: "\eae0";
-}
-.i-matcha-management:before {
-  content: "\eae1";
 }
 .i-matcha-business-unit:before {
   content: "\eae2";
@@ -1264,10 +1288,10 @@
 .i-matcha-deezer:before {
   content: "\eb0c";
 }
-.i-matcha-circle-beacon:before {
+.i-matcha-circle-beacons:before {
   content: "\eb0d";
 }
-.i-matcha-beacon:before {
+.i-matcha-beacons:before {
   content: "\eb0e";
 }
 .i-matcha-opened-lock:before {
@@ -1752,18 +1776,6 @@
   content: "\ea8f";
   margin-left: -1em;
   color: rgb(34, 55, 68);
-}
-.i-matcha-rocket:before {
-  content: "\ea91";
-}
-.i-matcha-rocket-out:before {
-  content: "\eae6";
-}
-.i-matcha-flickr-02:before {
-  content: "\eae7";
-}
-.i-matcha-flickr-04:before {
-  content: "\eae8";
 }
 .i-matcha-nu:before {
   content: "\eae9";
