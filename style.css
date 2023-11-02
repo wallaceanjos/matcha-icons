@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'matcha-icons';
-  src:  url('fonts/matcha-icons.eot?44qwvq');
-  src:  url('fonts/matcha-icons.eot?44qwvq#iefix') format('embedded-opentype'),
-    url('fonts/matcha-icons.ttf?44qwvq') format('truetype'),
-    url('fonts/matcha-icons.woff?44qwvq') format('woff'),
-    url('fonts/matcha-icons.svg?44qwvq#matcha-icons') format('svg');
+  src:  url('fonts/matcha-icons.eot?3tbohr');
+  src:  url('fonts/matcha-icons.eot?3tbohr#iefix') format('embedded-opentype'),
+    url('fonts/matcha-icons.ttf?3tbohr') format('truetype'),
+    url('fonts/matcha-icons.woff?3tbohr') format('woff'),
+    url('fonts/matcha-icons.svg?3tbohr#matcha-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1257,6 +1257,18 @@
 }
 .i-matcha-share1:before {
   content: "\ea22";
+}
+.i-matcha-circle-deezer:before {
+  content: "\eb0b";
+}
+.i-matcha-deezer:before {
+  content: "\eb0c";
+}
+.i-matcha-circle-beacon:before {
+  content: "\eb0d";
+}
+.i-matcha-beacon:before {
+  content: "\eb0e";
 }
 .i-matcha-opened-lock:before {
   content: "\ea23";

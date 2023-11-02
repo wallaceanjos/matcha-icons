@@ -27,6 +27,19 @@ straightforward as possible.
 
 ---
 
+## [1.0.20] - 2023-10-02
+
+Update icon library
+
+### Added
+
+- deezer <br />css class `.i-matcha-deezer`
+- circle-deezer <br />css class `.i-matcha-circle-deezer`
+- beacon <br />css class `.i-matcha-beacon`
+- circle-beacon <br />css class `.i-matcha-circle-beacon`
+
+---
+
 ## [1.0.19] - 2023-10-02
 
 Update icon library

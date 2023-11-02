@@ -7,7 +7,8 @@
       "grid": 24,
       "tags": [
         "app"
-      ]
+      ],
+      "defaultCode": 60051
     },
     {
       "paths": [
@@ -16,7 +17,8 @@
       "grid": 24,
       "tags": [
         "site"
-      ]
+      ],
+      "defaultCode": 60052
     },
     {
       "paths": [
@@ -2319,7 +2321,8 @@
       "tags": [
         "payment-cash"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60053
     },
     {
       "paths": [
@@ -2354,7 +2357,8 @@
       "tags": [
         "payment-card"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60056
     },
     {
       "paths": [
@@ -2373,7 +2377,8 @@
       "tags": [
         "payment-visa"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60062
     },
     {
       "paths": [
@@ -2396,7 +2401,8 @@
       "tags": [
         "payment-ticket"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60064
     },
     {
       "paths": [
@@ -2427,7 +2433,8 @@
       "tags": [
         "payment-elo"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60067
     },
     {
       "paths": [
@@ -2446,7 +2453,8 @@
       "tags": [
         "payment-hipercard"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60072
     },
     {
       "paths": [
@@ -2465,7 +2473,8 @@
       "tags": [
         "payment-diners"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60074
     },
     {
       "paths": [
@@ -2484,7 +2493,8 @@
       "tags": [
         "payment-credicard"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60076
     },
     {
       "paths": [
@@ -2507,7 +2517,8 @@
       "tags": [
         "payment-aura"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60078
     },
     {
       "paths": [
@@ -2530,7 +2541,8 @@
       "tags": [
         "payment-american-express"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60081
     },
     {
       "paths": [
@@ -2553,7 +2565,8 @@
       "tags": [
         "payment-pix"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60084
     },
     {
       "paths": [
@@ -2584,7 +2597,8 @@
       "tags": [
         "payment-master"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60087
     },
     {
       "paths": [
@@ -2615,7 +2629,8 @@
       "tags": [
         "payment-maestro"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60092
     },
     {
       "paths": [
@@ -2638,7 +2653,8 @@
       "tags": [
         "payment-alelo"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60097
     },
     {
       "paths": [
@@ -2657,7 +2673,8 @@
       "tags": [
         "payment-bank-slip"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60100
     },
     {
       "paths": [
@@ -2680,7 +2697,8 @@
       "tags": [
         "vr-refeicao"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60102
     },
     {
       "paths": [
@@ -2703,7 +2721,8 @@
       "tags": [
         "vr-auto"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60105
     },
     {
       "paths": [
@@ -2726,7 +2745,8 @@
       "tags": [
         "vr-alimentacao"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60108
     },
     {
       "paths": [
@@ -2765,7 +2785,8 @@
       "grid": 24,
       "tags": [
         "transfer"
-      ]
+      ],
+      "defaultCode": 60111
     },
     {
       "paths": [
@@ -2774,7 +2795,8 @@
       "grid": 24,
       "tags": [
         "cost-center"
-      ]
+      ],
+      "defaultCode": 60112
     },
     {
       "paths": [
@@ -2783,7 +2805,8 @@
       "grid": 24,
       "tags": [
         "expand"
-      ]
+      ],
+      "defaultCode": 60113
     },
     {
       "paths": [
@@ -2792,7 +2815,8 @@
       "grid": 24,
       "tags": [
         "collapse"
-      ]
+      ],
+      "defaultCode": 60114
     },
     {
       "paths": [
@@ -3004,7 +3028,8 @@
       "grid": 24,
       "tags": [
         "add-card"
-      ]
+      ],
+      "defaultCode": 60115
     },
     {
       "paths": [
@@ -3013,7 +3038,8 @@
       "grid": 24,
       "tags": [
         "update-balance"
-      ]
+      ],
+      "defaultCode": 60116
     },
     {
       "paths": [
@@ -3022,7 +3048,8 @@
       "grid": 24,
       "tags": [
         "cash"
-      ]
+      ],
+      "defaultCode": 60117
     },
     {
       "paths": [
@@ -3031,7 +3058,8 @@
       "grid": 24,
       "tags": [
         "cash-out"
-      ]
+      ],
+      "defaultCode": 60118
     },
     {
       "paths": [
@@ -3040,7 +3068,8 @@
       "grid": 24,
       "tags": [
         "pin"
-      ]
+      ],
+      "defaultCode": 60119
     },
     {
       "paths": [
@@ -3049,7 +3078,8 @@
       "grid": 24,
       "tags": [
         "pin-out"
-      ]
+      ],
+      "defaultCode": 60120
     },
     {
       "paths": [
@@ -3058,7 +3088,8 @@
       "grid": 24,
       "tags": [
         "flag"
-      ]
+      ],
+      "defaultCode": 60121
     },
     {
       "paths": [
@@ -3067,7 +3098,8 @@
       "grid": 24,
       "tags": [
         "flag-out"
-      ]
+      ],
+      "defaultCode": 60122
     },
     {
       "paths": [
@@ -3076,7 +3108,8 @@
       "grid": 24,
       "tags": [
         "category"
-      ]
+      ],
+      "defaultCode": 60123
     },
     {
       "paths": [
@@ -3085,7 +3118,8 @@
       "grid": 24,
       "tags": [
         "category-out"
-      ]
+      ],
+      "defaultCode": 60124
     },
     {
       "paths": [
@@ -3094,7 +3128,8 @@
       "grid": 24,
       "tags": [
         "media"
-      ]
+      ],
+      "defaultCode": 60125
     },
     {
       "paths": [
@@ -3103,7 +3138,8 @@
       "grid": 24,
       "tags": [
         "media-out"
-      ]
+      ],
+      "defaultCode": 60126
     },
     {
       "paths": [
@@ -3112,7 +3148,8 @@
       "grid": 24,
       "tags": [
         "wallet"
-      ]
+      ],
+      "defaultCode": 60127
     },
     {
       "paths": [
@@ -3121,7 +3158,8 @@
       "grid": 24,
       "tags": [
         "wallet-out"
-      ]
+      ],
+      "defaultCode": 60128
     },
     {
       "paths": [
@@ -3130,7 +3168,8 @@
       "grid": 24,
       "tags": [
         "management"
-      ]
+      ],
+      "defaultCode": 60129
     },
     {
       "paths": [
@@ -3139,7 +3178,8 @@
       "grid": 24,
       "tags": [
         "business-unit"
-      ]
+      ],
+      "defaultCode": 60130
     },
     {
       "paths": [
@@ -3687,6 +3727,46 @@
     },
     {
       "paths": [
+        "M512 0c-282.8 0-512 229.2-512 512s229.2 512 512 512c282.8 0 512-229.2 512-512s-229.2-512-512-512zM308.133 746.667h-155.333v-90.667h155.333v90.667zM495.867 746.667h-155.333v-90.667h155.333v90.667zM495.867 620.4h-155.333v-90.667h155.333v90.667zM495.867 494.267h-155.333v-90.667h155.333v90.667zM683.6 746.667h-155.467v-90.667h155.333v90.667zM683.6 620.4h-155.467v-90.667h155.333v90.667zM871.2 746.667h-155.333v-90.667h155.333v90.667zM871.2 620.4h-155.333v-90.667h155.333v90.667zM871.2 494.267h-155.333v-90.667h155.333v90.667zM871.2 368h-155.333v-90.667h155.333v90.667z"
+      ],
+      "tags": [
+        "circle-deezer"
+      ],
+      "defaultCode": 60171,
+      "grid": 24
+    },
+    {
+      "paths": [
+        "M715.867 277.333v90.667h155.333v-90.667h-155.333zM340.533 403.6v90.667h155.333v-90.667h-155.333zM715.867 403.6v90.667h155.333v-90.667h-155.333zM340.533 529.733v90.667h155.333v-90.667h-155.333zM528.133 529.733v90.667h155.333v-90.667h-155.333zM715.867 529.733v90.667h155.333v-90.667h-155.333zM152.8 656v90.667h155.333v-90.667h-155.333zM340.533 656v90.667h155.333v-90.667h-155.333zM528.133 656v90.667h155.333v-90.667h-155.333zM715.867 656v90.667h155.333v-90.667h-155.333z"
+      ],
+      "tags": [
+        "deezer"
+      ],
+      "defaultCode": 60172,
+      "grid": 24
+    },
+    {
+      "paths": [
+        "M512 0c-282.8 0-512 229.2-512 512s229.2 512 512 512c282.8 0 512-229.2 512-512s-229.2-512-512-512zM714 226.933c47.333 0 85.733 38.4 85.733 85.733s-38.4 85.733-85.733 85.733c-47.333 0-85.733-38.4-85.733-85.733s38.4-85.733 85.733-85.733zM414 170.667c94.8 0 171.6 76.8 171.6 171.6s-76.8 171.6-171.6 171.6-171.6-76.8-171.6-171.6 76.933-171.6 171.6-171.6zM155.467 568c0-47.333 38.4-85.733 85.733-85.733s85.733 38.4 85.733 85.733-38.4 85.733-85.733 85.733c-47.333-0.133-85.733-38.4-85.733-85.733zM393.467 853.333c-63.2 0-114.4-51.2-114.4-114.533 0-63.2 51.2-114.4 114.4-114.4s114.533 51.2 114.533 114.4c0 63.333-51.2 114.533-114.533 114.533zM684.667 795.733c-101.6 0-183.867-82.267-183.867-183.867s82.267-183.867 183.867-183.867 183.867 82.267 183.867 183.867-82.4 183.867-183.867 183.867z"
+      ],
+      "tags": [
+        "circle-beacon"
+      ],
+      "defaultCode": 60173,
+      "grid": 24
+    },
+    {
+      "paths": [
+        "M414 513.867c94.8 0 171.6-76.8 171.6-171.6s-76.8-171.6-171.6-171.6-171.6 76.8-171.6 171.6 76.933 171.6 171.6 171.6zM714 398.4c47.333 0 85.733-38.4 85.733-85.733s-38.4-85.733-85.733-85.733c-47.333 0-85.733 38.4-85.733 85.733s38.4 85.733 85.733 85.733zM326.933 568c0-47.333-38.4-85.733-85.733-85.733s-85.733 38.4-85.733 85.733 38.4 85.733 85.733 85.733c47.333-0.133 85.733-38.4 85.733-85.733zM393.467 624.4c-63.2 0-114.4 51.2-114.4 114.4s51.2 114.533 114.4 114.533c63.2 0 114.533-51.2 114.533-114.533 0-63.2-51.2-114.4-114.533-114.4zM684.667 428c-101.6 0-183.867 82.267-183.867 183.867s82.267 183.867 183.867 183.867 183.867-82.267 183.867-183.867-82.4-183.867-183.867-183.867z"
+      ],
+      "tags": [
+        "beacon"
+      ],
+      "defaultCode": 60174,
+      "grid": 24
+    },
+    {
+      "paths": [
         "M733.663 384.003h2.333c41.069 0 74.673 32.913 74.673 73.143v365.714c0 40.231-33.598 73.143-74.673 73.143h-447.996c-41.067 0-74.667-32.913-74.667-73.143v-365.714c0-40.228 33.598-73.143 74.667-73.143h37.334v-73.143c0-100.935 83.625-182.855 186.667-182.855 79.335 0 147.175 48.573 174.176 116.991l-61.281 40.853c-11.647-50.535-57.825-88.361-112.899-88.361-63.838 0-115.731 50.836-115.731 113.371v73.143h337.399zM437.331 639.997c0 40.231 33.598 73.143 74.667 73.143s74.669-32.913 74.669-73.143c0-40.228-33.598-73.143-74.669-73.143s-74.667 32.913-74.667 73.143z"
       ],
       "tags": [
@@ -3712,7 +3792,8 @@
       "grid": 24,
       "tags": [
         "circle-flickr"
-      ]
+      ],
+      "defaultCode": 60131
     },
     {
       "paths": [
@@ -3721,7 +3802,8 @@
       "grid": 24,
       "tags": [
         "cookie"
-      ]
+      ],
+      "defaultCode": 60132
     },
     {
       "paths": [
@@ -3730,7 +3812,7 @@
       "tags": [
         "cookie-out"
       ],
-      "defaultCode": 59938,
+      "defaultCode": 60133,
       "grid": 24
     },
     {
@@ -4429,7 +4511,8 @@
       "grid": 24,
       "tags": [
         "rocket-out"
-      ]
+      ],
+      "defaultCode": 60134
     },
     {
       "paths": [
@@ -4438,7 +4521,8 @@
       "grid": 24,
       "tags": [
         "flickr-02"
-      ]
+      ],
+      "defaultCode": 60135
     },
     {
       "paths": [
@@ -4447,7 +4531,8 @@
       "grid": 24,
       "tags": [
         "flickr-04"
-      ]
+      ],
+      "defaultCode": 60136
     },
     {
       "paths": [
@@ -4456,7 +4541,8 @@
       "grid": 24,
       "tags": [
         "nu"
-      ]
+      ],
+      "defaultCode": 60137
     },
     {
       "paths": [
@@ -4475,7 +4561,8 @@
       "tags": [
         "nu-color"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60138
     },
     {
       "paths": [
@@ -4484,7 +4571,8 @@
       "grid": 24,
       "tags": [
         "bradesco"
-      ]
+      ],
+      "defaultCode": 60140
     },
     {
       "paths": [
@@ -4503,7 +4591,8 @@
       "tags": [
         "bradesco-color"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60141
     },
     {
       "paths": [
@@ -4512,7 +4601,8 @@
       "grid": 24,
       "tags": [
         "santander"
-      ]
+      ],
+      "defaultCode": 60143
     },
     {
       "paths": [
@@ -4531,7 +4621,8 @@
       "tags": [
         "santander-color"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60144
     },
     {
       "paths": [
@@ -4540,7 +4631,8 @@
       "grid": 24,
       "tags": [
         "bb"
-      ]
+      ],
+      "defaultCode": 60146
     },
     {
       "paths": [
@@ -4559,7 +4651,8 @@
       "tags": [
         "bb-color"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60147
     },
     {
       "paths": [
@@ -4569,7 +4662,8 @@
       "grid": 24,
       "tags": [
         "c6-color"
-      ]
+      ],
+      "defaultCode": 60149
     },
     {
       "paths": [
@@ -4595,7 +4689,8 @@
       "grid": 24,
       "tags": [
         "itau"
-      ]
+      ],
+      "defaultCode": 60150
     },
     {
       "paths": [
@@ -4666,7 +4761,8 @@
       "tags": [
         "itau-color"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60151
     },
     {
       "paths": [
@@ -4675,7 +4771,8 @@
       "grid": 24,
       "tags": [
         "caixa"
-      ]
+      ],
+      "defaultCode": 60166
     },
     {
       "paths": [
@@ -4702,7 +4799,8 @@
       "tags": [
         "caixa-color"
       ],
-      "isMulticolor": true
+      "isMulticolor": true,
+      "defaultCode": 60167
     }
   ],
   "height": 1024,
@@ -4712,7 +4810,7 @@
       "width": 768,
       "height": 768
     },
-    "iconsHash": 858219442
+    "iconsHash": 382852255
   },
   "preferences": {
     "showGlyphs": true,
@@ -4724,7 +4822,7 @@
       "prefix": "i-matcha-",
       "metadata": {
         "fontFamily": "matcha-icons",
-        "majorVersion": 11,
+        "majorVersion": 14,
         "minorVersion": 0
       },
       "metrics": {
@@ -4757,1254 +4855,1372 @@
   "selection": [
     {
       "order": 401,
-      "name": "app"
+      "name": "app",
+      "prevSize": 24
     },
     {
       "order": 402,
-      "name": "site"
+      "name": "site",
+      "prevSize": 24
     },
     {
       "order": 403,
       "name": "home",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 404,
       "name": "home-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 405,
       "name": "content",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 406,
       "name": "content-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 407,
       "name": "events",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 408,
       "name": "events-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 409,
       "name": "favorite",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 410,
       "name": "favorite-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 411,
       "name": "tv",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 412,
       "name": "tv-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 413,
       "name": "bible",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 414,
       "name": "bible-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 415,
       "name": "reading-plan",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 416,
       "name": "reading-plan-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 417,
       "name": "agenda",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 418,
       "name": "agenda-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 419,
       "name": "church",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 420,
       "name": "church-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 421,
       "name": "download",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 422,
       "name": "downloads-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 423,
       "name": "groups",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 424,
       "name": "groups-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 425,
       "name": "live",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 426,
       "name": "live-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 427,
       "name": "star",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 428,
       "name": "star-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 429,
       "name": "news",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 430,
       "name": "news-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 431,
       "name": "edit",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 432,
       "name": "edit-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 433,
       "name": "web",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 434,
       "name": "web-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 435,
       "name": "prayer",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 436,
       "name": "prayer-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 437,
       "name": "radio",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 438,
       "name": "radio-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 439,
       "name": "id-card",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 440,
       "name": "id-card-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 441,
       "name": "cell",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 442,
       "name": "cell-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 443,
       "name": "business",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 444,
       "name": "business-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 445,
       "name": "contact",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 446,
       "name": "contact-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 447,
       "name": "store",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 448,
       "name": "store-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 449,
       "name": "mykids",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 450,
       "name": "mykids-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 451,
       "name": "profile",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 452,
       "name": "profile-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 453,
       "name": "bright",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 454,
       "name": "bright-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 455,
       "name": "case",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 456,
       "name": "case-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 457,
       "name": "cake",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 458,
       "name": "link",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 459,
       "name": "list",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 460,
       "name": "grid",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 461,
       "name": "grid-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 462,
       "name": "contrast",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 463,
       "name": "check-in",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 464,
       "name": "check-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 465,
       "name": "counseling",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 466,
       "name": "counseling-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 467,
       "name": "notes",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 468,
       "name": "notes-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 469,
       "name": "print",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 470,
       "name": "print-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 471,
       "name": "smile",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 472,
       "name": "notification",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 473,
       "name": "light-mode",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 474,
       "name": "dark-mode",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 475,
       "name": "dark-mode-2",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 476,
       "name": "category",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 477,
       "name": "bank",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 478,
       "name": "visitor",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 479,
       "name": "participant",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 480,
       "name": "arrow-left",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 481,
       "name": "arrow-up",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 482,
       "name": "arrow-down",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 483,
       "name": "arrow-right",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 484,
       "name": "chevron-left",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 485,
       "name": "chevron-right",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 486,
       "name": "chevron-down",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 487,
       "name": "chevron-up",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 488,
       "name": "reading",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 489,
       "name": "blocked",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 490,
       "name": "reports",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 491,
       "name": "dashboard",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 492,
       "name": "graph",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 493,
       "name": "education",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 494,
       "name": "phone",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 495,
       "name": "contact-us",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 496,
       "name": "header-panel",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 497,
       "name": "audio",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 498,
       "name": "audio-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 499,
       "name": "foward",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 500,
       "name": "foward-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 501,
       "name": "next",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 502,
       "name": "next1",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 503,
       "name": "pause",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 504,
       "name": "pause-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 505,
       "name": "play",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 506,
       "name": "play-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 507,
       "name": "microphone",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 508,
       "name": "microphone-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 509,
       "name": "previous",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 510,
       "name": "previous-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 511,
       "name": "rewind",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 512,
       "name": "rewind-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 513,
       "name": "songbook",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 514,
       "name": "songbook-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 515,
       "name": "video",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 516,
       "name": "video-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 517,
       "name": "upload",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 518,
       "name": "upload-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 519,
       "name": "gallery",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 520,
       "name": "image-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 521,
-      "prevSize": 32,
+      "prevSize": 24,
       "name": "edit-image"
     },
     {
       "order": 522,
       "name": "bonus",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 523,
       "name": "bonus-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 524,
       "name": "save",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 525,
       "name": "save-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 526,
       "name": "lightbulb",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 527,
       "name": "lightbulb-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 528,
       "name": "laptop",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 529,
       "name": "phone1",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 530,
       "name": "monitor",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 531,
       "name": "monitor-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 532,
       "name": "testimony",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 533,
       "name": "testimony-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 534,
       "name": "pdf",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 535,
       "name": "podtail",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 536,
       "name": "net",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 537,
       "name": "contact1",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 538,
       "name": "copy-content",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 539,
       "name": "about",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 540,
       "name": "about-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 541,
       "name": "copy",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 542,
       "name": "copy-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 543,
       "name": "copy-folder",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 544,
       "name": "copy-folder-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 545,
       "name": "new-note",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 546,
       "name": "new-note-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 547,
       "name": "folder-closed",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 548,
       "name": "folder-opened",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 549,
       "name": "note",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 550,
       "name": "note-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 551,
       "name": "copy-out1",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 552,
       "name": "new-note-out1",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 553,
       "name": "text",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 554,
       "name": "text-align-left",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 555,
       "name": "text-bullet-list",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 556,
       "name": "text-align-center",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 557,
       "name": "text-indent-back",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 558,
       "name": "text-align-justify",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 559,
       "name": "text-indent-foward",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 560,
       "name": "text-align-right",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 561,
       "name": "font-bold",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 562,
       "name": "font-underline",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 563,
       "name": "font-italic",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 564,
       "name": "delete",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 565,
       "name": "delete-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 566,
       "name": "filter",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 567,
       "name": "filter-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 568,
       "name": "filter-bars",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 569,
       "name": "fullscreen",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 570,
       "name": "fullscreen-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 571,
       "name": "fullscreen-exit",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 572,
       "name": "fullscreen-exit-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 573,
       "name": "settings",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 574,
       "name": "settings-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 575,
       "name": "share",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 576,
       "name": "share-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 577,
       "name": "toggle-off",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 578,
       "name": "toggle-on",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 579,
       "name": "toggle-off-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 580,
       "name": "toggle-on-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 581,
       "name": "visibility-on",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 582,
       "name": "visibility-off",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 583,
       "name": "visibility-on-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 584,
       "name": "visibility-off-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 585,
       "name": "logout",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 586,
       "name": "logout-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 587,
       "name": "search",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 588,
       "name": "search-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 589,
       "name": "notification1",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 590,
       "name": "notification-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 591,
       "name": "password",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 592,
       "name": "password-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 593,
       "name": "calendar",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 594,
       "name": "calendar-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 595,
       "name": "menu",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 596,
       "name": "menu-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 597,
       "name": "info",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 598,
       "name": "info-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 599,
       "name": "leadership",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 600,
       "name": "leadership-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 601,
       "name": "attachment",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 602,
       "name": "attachment-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 603,
       "name": "send",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 604,
       "name": "action_sign_error",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 605,
       "name": "action_close",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 606,
       "name": "action_sign_success",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 607,
       "name": "action_done",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 608,
       "name": "action_sign_warning",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 609,
       "name": "action_sign_warning-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 610,
       "name": "feedback",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 611,
       "name": "feedback-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 612,
       "name": "action_get_up",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 613,
       "name": "action_get_down",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 614,
       "name": "action_move",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 615,
       "name": "policy",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 616,
-      "prevSize": 32,
+      "prevSize": 24,
       "name": "action_key"
     },
     {
       "order": 617,
       "name": "action_sign_info",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 618,
       "name": "action_sign_info-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 619,
       "name": "qr-code-no-border",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 620,
       "name": "qr-code",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 621,
       "name": "drag-dots",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 622,
       "name": "drag-bars",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 623,
       "name": "action_arrow_down",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 624,
       "name": "action_arrow_left",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 625,
       "name": "action_arrow_up",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 626,
       "name": "action_arrow_right",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 627,
-      "name": "payment-cash"
+      "name": "payment-cash",
+      "prevSize": 24,
+      "codes": [
+        60053,
+        60054,
+        60055
+      ]
     },
     {
       "order": 628,
-      "name": "payment-card"
+      "name": "payment-card",
+      "prevSize": 24,
+      "codes": [
+        60056,
+        60057,
+        60058,
+        60059,
+        60060,
+        60061
+      ]
     },
     {
       "order": 629,
-      "name": "payment-visa"
+      "name": "payment-visa",
+      "prevSize": 24,
+      "codes": [
+        60062,
+        60063
+      ]
     },
     {
       "order": 630,
-      "name": "payment-ticket"
+      "name": "payment-ticket",
+      "prevSize": 24,
+      "codes": [
+        60064,
+        60065,
+        60066
+      ]
     },
     {
       "order": 631,
-      "name": "payment-elo"
+      "name": "payment-elo",
+      "prevSize": 24,
+      "codes": [
+        60067,
+        60068,
+        60069,
+        60070,
+        60071
+      ]
     },
     {
       "order": 632,
-      "name": "payment-hipercard"
+      "name": "payment-hipercard",
+      "prevSize": 24,
+      "codes": [
+        60072,
+        60073
+      ]
     },
     {
       "order": 633,
-      "name": "payment-diners"
+      "name": "payment-diners",
+      "prevSize": 24,
+      "codes": [
+        60074,
+        60075
+      ]
     },
     {
       "order": 634,
-      "name": "payment-credicard"
+      "name": "payment-credicard",
+      "prevSize": 24,
+      "codes": [
+        60076,
+        60077
+      ]
     },
     {
       "order": 635,
-      "name": "payment-aura"
+      "name": "payment-aura",
+      "prevSize": 24,
+      "codes": [
+        60078,
+        60079,
+        60080
+      ]
     },
     {
       "order": 636,
-      "name": "payment-american-express"
+      "name": "payment-american-express",
+      "prevSize": 24,
+      "codes": [
+        60081,
+        60082,
+        60083
+      ]
     },
     {
       "order": 637,
-      "name": "payment-pix"
+      "name": "payment-pix",
+      "prevSize": 24,
+      "codes": [
+        60084,
+        60085,
+        60086
+      ]
     },
     {
       "order": 638,
-      "name": "payment-master"
+      "name": "payment-master",
+      "prevSize": 24,
+      "codes": [
+        60087,
+        60088,
+        60089,
+        60090,
+        60091
+      ]
     },
     {
       "order": 639,
-      "name": "payment-maestro"
+      "name": "payment-maestro",
+      "prevSize": 24,
+      "codes": [
+        60092,
+        60093,
+        60094,
+        60095,
+        60096
+      ]
     },
     {
       "order": 640,
-      "name": "payment-alelo"
+      "name": "payment-alelo",
+      "prevSize": 24,
+      "codes": [
+        60097,
+        60098,
+        60099
+      ]
     },
     {
       "order": 641,
-      "name": "payment-bank-slip"
+      "name": "payment-bank-slip",
+      "prevSize": 24,
+      "codes": [
+        60100,
+        60101
+      ]
     },
     {
       "order": 642,
-      "name": "vr-refeicao"
+      "name": "vr-refeicao",
+      "prevSize": 24,
+      "codes": [
+        60102,
+        60103,
+        60104
+      ]
     },
     {
       "order": 643,
-      "name": "vr-auto"
+      "name": "vr-auto",
+      "prevSize": 24,
+      "codes": [
+        60105,
+        60106,
+        60107
+      ]
     },
     {
       "order": 644,
-      "name": "vr-alimentacao"
+      "name": "vr-alimentacao",
+      "prevSize": 24,
+      "codes": [
+        60108,
+        60109,
+        60110
+      ]
     },
     {
       "order": 645,
       "name": "action_plus",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 646,
       "name": "minus",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 647,
       "name": "action_reload",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 648,
-      "name": "transfer"
+      "name": "transfer",
+      "prevSize": 24
     },
     {
       "order": 649,
-      "name": "cost-center"
+      "name": "cost-center",
+      "prevSize": 24
     },
     {
       "order": 650,
-      "name": "expand"
+      "name": "expand",
+      "prevSize": 24
     },
     {
       "order": 651,
-      "name": "collapse"
+      "name": "collapse",
+      "prevSize": 24
     },
     {
       "order": 652,
       "name": "action_list",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 653,
       "name": "action_options",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 654,
       "name": "historic",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 655,
       "name": "load",
-      "prevSize": 32,
+      "prevSize": 24,
       "codes": [
         59929,
         59930
@@ -6013,433 +6229,472 @@
     {
       "order": 656,
       "name": "plugin",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 657,
       "name": "modules",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 658,
       "name": "platform",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 659,
       "name": "barcode",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 660,
       "name": "barcode-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 661,
       "name": "camera",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 662,
       "name": "camera-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 663,
       "name": "cast",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 664,
       "name": "cast-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 665,
       "name": "location",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 666,
       "name": "location-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 667,
       "name": "clock",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 668,
       "name": "clock-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 669,
       "name": "card",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 670,
       "name": "card-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 671,
-      "name": "add-card"
+      "name": "add-card",
+      "prevSize": 24
     },
     {
       "order": 672,
-      "name": "update-balance"
+      "name": "update-balance",
+      "prevSize": 24
     },
     {
       "order": 673,
-      "name": "cash"
+      "name": "cash",
+      "prevSize": 24
     },
     {
       "order": 674,
-      "name": "cash-out"
+      "name": "cash-out",
+      "prevSize": 24
     },
     {
       "order": 675,
-      "name": "pin"
+      "name": "pin",
+      "prevSize": 24
     },
     {
       "order": 676,
-      "name": "pin-out"
+      "name": "pin-out",
+      "prevSize": 24
     },
     {
       "order": 677,
-      "name": "flag"
+      "name": "flag",
+      "prevSize": 24
     },
     {
       "order": 678,
-      "name": "flag-out"
+      "name": "flag-out",
+      "prevSize": 24
     },
     {
       "order": 679,
-      "name": "category"
+      "name": "category1",
+      "prevSize": 24
     },
     {
       "order": 680,
-      "name": "category-out"
+      "name": "category-out",
+      "prevSize": 24
     },
     {
       "order": 681,
-      "name": "media"
+      "name": "media",
+      "prevSize": 24
     },
     {
       "order": 682,
-      "name": "media-out"
+      "name": "media-out",
+      "prevSize": 24
     },
     {
       "order": 683,
-      "name": "wallet"
+      "name": "wallet",
+      "prevSize": 24
     },
     {
       "order": 684,
-      "name": "wallet-out"
+      "name": "wallet-out",
+      "prevSize": 24
     },
     {
       "order": 685,
-      "name": "management"
+      "name": "management",
+      "prevSize": 24
     },
     {
       "order": 686,
-      "name": "business-unit"
+      "name": "business-unit",
+      "prevSize": 24
     },
     {
       "order": 687,
       "name": "receipt",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 688,
       "name": "receipt-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 689,
       "name": "circle-email",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 690,
       "name": "email",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 691,
       "name": "email-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 692,
       "name": "pix",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 693,
       "name": "pix-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 694,
       "name": "location-cell",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 695,
       "name": "location-cell-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 696,
       "name": "image-rights",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 697,
       "name": "image-rights-allowed",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 698,
       "name": "forbidden-passage",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 699,
       "name": "allowed-passage",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 700,
       "name": "food-restriction",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 701,
       "name": "no-food-restriction",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 702,
       "name": "allergy",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 703,
       "name": "special-need",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 704,
       "name": "map",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 705,
       "name": "apple",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 706,
       "name": "number",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 707,
       "name": "flow",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 708,
       "name": "ibf-church",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 709,
       "name": "process-barcode",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 710,
       "name": "process-card",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 711,
       "name": "box-opened",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 712,
       "name": "parent",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 713,
       "name": "kid-girl",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 714,
       "name": "kid-boy",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 715,
       "name": "people",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 716,
       "name": "circle-code",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 717,
       "name": "circle-facebook",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 718,
       "name": "facebook",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 719,
       "name": "circle-instagram",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
-      "order": 720,
+      "order": 787,
       "name": "instagram",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 721,
       "name": "soundcloud",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 722,
-      "prevSize": 32,
+      "prevSize": 24,
       "name": "circle-soundcloud"
     },
     {
       "order": 723,
       "name": "spotify",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 724,
       "name": "circle-spotify",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 725,
       "name": "circle-telegram",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 726,
       "name": "telegram",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 727,
-      "prevSize": 32,
+      "prevSize": 24,
       "name": "circle-tiktok"
     },
     {
       "order": 728,
       "name": "tiktok",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 729,
       "name": "circle-twitter",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 730,
       "name": "twitter",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 731,
       "name": "circle-whatsapp",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 732,
       "name": "whatsapp",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 733,
       "name": "circle-youtube",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 734,
       "name": "youtube",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 735,
-      "prevSize": 32,
+      "prevSize": 24,
       "name": "circle-share"
     },
     {
       "order": 736,
       "name": "share1",
-      "prevSize": 32
+      "prevSize": 24
+    },
+    {
+      "order": 790,
+      "prevSize": 24,
+      "name": "circle-deezer"
+    },
+    {
+      "order": 789,
+      "prevSize": 24,
+      "name": "deezer"
+    },
+    {
+      "order": 792,
+      "prevSize": 24,
+      "name": "circle-beacon"
+    },
+    {
+      "order": 791,
+      "prevSize": 24,
+      "name": "beacon"
     },
     {
       "order": 737,
       "name": "opened-lock",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 738,
       "name": "flickr",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 739,
-      "name": "circle-flickr"
+      "name": "circle-flickr",
+      "prevSize": 24
     },
     {
       "order": 740,
-      "name": "cookie"
+      "name": "cookie",
+      "prevSize": 24
     },
     {
       "order": 741,
-      "name": "cookie-out"
+      "name": "cookie-out",
+      "prevSize": 24
     },
     {
       "order": 742,
       "name": "cookie-out-2",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 743,
       "name": "emoji-happy",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 744,
       "name": "emoji-happy-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 745,
       "name": "emoji-happy-color",
-      "prevSize": 32,
+      "prevSize": 24,
       "codes": [
         59943,
         59944,
@@ -6454,17 +6709,17 @@
     {
       "order": 746,
       "name": "emoji-prosperous",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 747,
       "name": "emoji-prosperous-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 748,
       "name": "emoji-prosperous-color",
-      "prevSize": 32,
+      "prevSize": 24,
       "codes": [
         59953,
         59954,
@@ -6484,17 +6739,17 @@
     {
       "order": 749,
       "name": "emoji-blessed",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 750,
       "name": "emoji-blessed-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 751,
       "name": "emoji-blessed-color",
-      "prevSize": 32,
+      "prevSize": 24,
       "codes": [
         59968,
         59969,
@@ -6509,17 +6764,17 @@
     {
       "order": 752,
       "name": "emoji-sick",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 753,
       "name": "emoji-sick-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 754,
       "name": "emoji-sick-color",
-      "prevSize": 32,
+      "prevSize": 24,
       "codes": [
         59978,
         59979,
@@ -6535,17 +6790,17 @@
     {
       "order": 755,
       "name": "emoji-alone",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 756,
       "name": "emoji-alone-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 757,
       "name": "emoji-alone-color",
-      "prevSize": 32,
+      "prevSize": 24,
       "codes": [
         59989,
         59990,
@@ -6561,7 +6816,7 @@
     {
       "order": 758,
       "name": "emoji-sad",
-      "prevSize": 32,
+      "prevSize": 24,
       "codes": [
         59995,
         59996,
@@ -6572,7 +6827,7 @@
     {
       "order": 759,
       "name": "emoji-sad-out",
-      "prevSize": 32,
+      "prevSize": 24,
       "codes": [
         59999,
         60000,
@@ -6585,7 +6840,7 @@
     {
       "order": 760,
       "name": "emoji-sad-color",
-      "prevSize": 32,
+      "prevSize": 24,
       "codes": [
         60005,
         60006,
@@ -6605,17 +6860,17 @@
     {
       "order": 761,
       "name": "emoji-faithless",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 762,
       "name": "emoji-faithless-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 763,
       "name": "emoji-faithless-color",
-      "prevSize": 32,
+      "prevSize": 24,
       "codes": [
         60020,
         60021,
@@ -6630,17 +6885,17 @@
     {
       "order": 764,
       "name": "emoji-careful",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 765,
       "name": "emoji-careful-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 766,
       "name": "emoji-careful-color",
-      "prevSize": 32,
+      "prevSize": 24,
       "codes": [
         60030,
         60031,
@@ -6655,17 +6910,17 @@
     {
       "order": 767,
       "name": "emoji-distressed",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 768,
       "name": "emoji-distressed-out",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 769,
       "name": "emoji-distressed-color",
-      "prevSize": 32,
+      "prevSize": 24,
       "codes": [
         60040,
         60041,
@@ -6680,71 +6935,126 @@
     {
       "order": 770,
       "name": "rocket",
-      "prevSize": 32
+      "prevSize": 24
     },
     {
       "order": 771,
-      "name": "rocket-out"
+      "name": "rocket-out",
+      "prevSize": 24
     },
     {
       "order": 772,
-      "name": "flickr-02"
+      "name": "flickr-02",
+      "prevSize": 24
     },
     {
       "order": 773,
-      "name": "flickr-04"
+      "name": "flickr-04",
+      "prevSize": 24
     },
     {
       "order": 774,
-      "name": "nu"
+      "name": "nu",
+      "prevSize": 24
     },
     {
       "order": 775,
-      "name": "nu-color"
+      "name": "nu-color",
+      "prevSize": 24,
+      "codes": [
+        60138,
+        60139
+      ]
     },
     {
       "order": 776,
-      "name": "bradesco"
+      "name": "bradesco",
+      "prevSize": 24
     },
     {
       "order": 777,
-      "name": "bradesco-color"
+      "name": "bradesco-color",
+      "prevSize": 24,
+      "codes": [
+        60141,
+        60142
+      ]
     },
     {
       "order": 778,
-      "name": "santander"
+      "name": "santander",
+      "prevSize": 24
     },
     {
       "order": 779,
-      "name": "santander-color"
+      "name": "santander-color",
+      "prevSize": 24,
+      "codes": [
+        60144,
+        60145
+      ]
     },
     {
       "order": 780,
-      "name": "bb"
+      "name": "bb",
+      "prevSize": 24
     },
     {
       "order": 781,
-      "name": "bb-color"
+      "name": "bb-color",
+      "prevSize": 24,
+      "codes": [
+        60147,
+        60148
+      ]
     },
     {
       "order": 782,
-      "name": "c6-color"
+      "name": "c6-color",
+      "prevSize": 24
     },
     {
       "order": 783,
-      "name": "itau"
+      "name": "itau",
+      "prevSize": 24
     },
     {
       "order": 784,
-      "name": "itau-color"
+      "name": "itau-color",
+      "prevSize": 24,
+      "codes": [
+        60151,
+        60152,
+        60153,
+        60154,
+        60155,
+        60156,
+        60157,
+        60158,
+        60159,
+        60160,
+        60161,
+        60162,
+        60163,
+        60164,
+        60165
+      ]
     },
     {
       "order": 785,
-      "name": "caixa"
+      "name": "caixa",
+      "prevSize": 24
     },
     {
       "order": 786,
-      "name": "caixa-color"
+      "name": "caixa-color",
+      "prevSize": 24,
+      "codes": [
+        60167,
+        60168,
+        60169,
+        60170
+      ]
     }
   ],
   "prevSize": 24,

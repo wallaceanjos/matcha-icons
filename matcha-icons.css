@@ -1310,6 +1310,18 @@
 .i-matcha-share1:before {
   content: "\ea22";
 }
+.i-matcha-circle-deezer:before {
+  content: "\eb0b";
+}
+.i-matcha-deezer:before {
+  content: "\eb0c";
+}
+.i-matcha-circle-beacon:before {
+  content: "\eb0d";
+}
+.i-matcha-beacon:before {
+  content: "\eb0e";
+}
 .i-matcha-opened-lock:before {
   content: "\ea23";
 }
