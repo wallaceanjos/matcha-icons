@@ -1346,6 +1346,12 @@
 .i-matcha-beacons:before {
   content: "\eb0e";
 }
+.i-matcha-circle-threads:before {
+  content: "\eb13";
+}
+.i-matcha-threads:before {
+  content: "\eb14";
+}
 .i-matcha-opened-lock:before {
   content: "\ea23";
 }
