@@ -1,6 +1,6 @@
 {
   "name": "matcha-icons",
-  "version": "1.0.23",
+  "version": "1.0.25",
   "description": "Biblioteca de ícones usada no design system da inchurch",
   "main": "demo.html",
   "scripts": {
