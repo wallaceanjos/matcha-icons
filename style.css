@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'matcha-icons';
-  src:  url('fonts/matcha-icons.eot?uabm7d');
-  src:  url('fonts/matcha-icons.eot?uabm7d#iefix') format('embedded-opentype'),
-    url('fonts/matcha-icons.ttf?uabm7d') format('truetype'),
-    url('fonts/matcha-icons.woff?uabm7d') format('woff'),
-    url('fonts/matcha-icons.svg?uabm7d#matcha-icons') format('svg');
+  src:  url('fonts/matcha-icons.eot?cm1h0e');
+  src:  url('fonts/matcha-icons.eot?cm1h0e#iefix') format('embedded-opentype'),
+    url('fonts/matcha-icons.ttf?cm1h0e') format('truetype'),
+    url('fonts/matcha-icons.woff?cm1h0e') format('woff'),
+    url('fonts/matcha-icons.svg?cm1h0e#matcha-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1332,6 +1332,18 @@
 }
 .i-matcha-cookie-out-2:before {
   content: "\ea90";
+}
+.i-matcha-safetopay:before {
+  content: "\eb1b";
+}
+.i-matcha-granito:before {
+  content: "\eb1c";
+}
+.i-matcha-iugu:before {
+  content: "\eb1d";
+}
+.i-matcha-stripe:before {
+  content: "\eb1e";
 }
 .i-matcha-emoji-happy-alt:before {
   content: "\eb1a";

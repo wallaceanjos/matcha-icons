@@ -1385,6 +1385,18 @@
 .i-matcha-cookie-out-2:before {
   content: "\ea90";
 }
+.i-matcha-safetopay:before {
+  content: "\eb1b";
+}
+.i-matcha-granito:before {
+  content: "\eb1c";
+}
+.i-matcha-iugu:before {
+  content: "\eb1d";
+}
+.i-matcha-stripe:before {
+  content: "\eb1e";
+}
 .i-matcha-emoji-happy-alt:before {
   content: "\eb1a";
 }
