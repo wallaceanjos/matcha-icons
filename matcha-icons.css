@@ -28,7 +28,7 @@
   height: 24px;
   width: 24px;
   position: relative;
-  /* top: -1px; */
+  top: -1px;
   display: inline-block;
   vertical-align: middle;
 /* Better Font Rendering =========== */
@@ -1366,6 +1366,12 @@
 }
 .i-matcha-threads:before {
   content: "\eb14";
+}
+.i-matcha-circle-podcast:before {
+  content: "\eb1f";
+}
+.i-matcha-podcast:before {
+  content: "\eb20";
 }
 .i-matcha-opened-lock:before {
   content: "\ea23";
