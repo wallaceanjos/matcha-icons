@@ -1066,6 +1066,9 @@
 .i-matcha-transfer:before {
   content: "\eacf";
 }
+.i-matcha-export:before {
+  content: "\eb21";
+}
 .i-matcha-cost-center:before {
   content: "\ead0";
 }
