@@ -293,6 +293,18 @@
 .i-matcha-print-out2:before {
   content: "\eae8";
 }
+.i-matcha-thumb-up-out:before {
+  content: "\eb22";
+}
+.i-matcha-thumb-down-out:before {
+  content: "\eb23";
+}
+.i-matcha-thumb-up:before {
+  content: "\eb24";
+}
+.i-matcha-thumb-down:before {
+  content: "\eb25";
+}
 .i-matcha-smile:before {
   content: "\e9fb";
 }
