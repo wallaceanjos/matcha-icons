@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'matcha-icons';
-  src:  url('fonts/matcha-icons.eot?peeew9');
-  src:  url('fonts/matcha-icons.eot?peeew9#iefix') format('embedded-opentype'),
-    url('fonts/matcha-icons.ttf?peeew9') format('truetype'),
-    url('fonts/matcha-icons.woff?peeew9') format('woff'),
-    url('fonts/matcha-icons.svg?peeew9#matcha-icons') format('svg');
+  src:  url('fonts/matcha-icons.eot?cdj1rk');
+  src:  url('fonts/matcha-icons.eot?cdj1rk#iefix') format('embedded-opentype'),
+    url('fonts/matcha-icons.ttf?cdj1rk') format('truetype'),
+    url('fonts/matcha-icons.woff?cdj1rk') format('woff'),
+    url('fonts/matcha-icons.svg?cdj1rk#matcha-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1044,6 +1044,9 @@
 .i-matcha-action_options:before {
   content: "\e931";
 }
+.i-matcha-ellipsis:before {
+  content: "\eb26";
+}
 .i-matcha-historic:before {
   content: "\ea18";
 }
@@ -1242,6 +1245,9 @@
 }
 .i-matcha-people:before {
   content: "\ea21";
+}
+.i-matcha-remember:before {
+  content: "\eb27";
 }
 .i-matcha-circle-code:before {
   content: "\e9c4";
